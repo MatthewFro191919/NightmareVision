@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nowplayingtruck.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="za truck instance 10000" x="0" y="0" width="1125" height="406"/>
+	<SubTexture name="za truck instance 10001" x="1125" y="0" width="1125" height="406"/>
+	<SubTexture name="za truck instance 10002" x="2250" y="0" width="1125" height="406"/>
+	<SubTexture name="za truck instance 10003" x="0" y="406" width="1125" height="406"/>
+	<SubTexture name="za truck instance 10004" x="1125" y="406" width="1125" height="406"/>
+	<SubTexture name="za truck instance 10005" x="2250" y="406" width="1125" height="406"/>
+	<SubTexture name="za truck instance 10006" x="0" y="812" width="1125" height="406"/>
+	<SubTexture name="za truck instance 10007" x="1125" y="812" width="1125" height="406"/>
+	<SubTexture name="za truck instance 10008" x="2250" y="812" width="1125" height="406"/>
+	<SubTexture name="za truck instance 10009" x="0" y="1218" width="1125" height="406"/>
+	<SubTexture name="za truck instance 10010" x="1125" y="1218" width="1125" height="406"/>
+	<SubTexture name="za truck instance 10011" x="2250" y="1218" width="1125" height="406"/>
+	<SubTexture name="za truck instance 10012" x="0" y="1624" width="1125" height="406"/>
+	<SubTexture name="za truck instance 10013" x="1125" y="1624" width="1125" height="406"/>
+	<SubTexture name="za truck instance 10014" x="2250" y="1624" width="1125" height="406"/>
+	<SubTexture name="za truck instance 10015" x="0" y="406" width="1125" height="406"/>
+	<SubTexture name="za truck instance 10016" x="1125" y="406" width="1125" height="406"/>
+	<SubTexture name="za truck instance 10017" x="0" y="2030" width="1125" height="406"/>
+</TextureAtlas>

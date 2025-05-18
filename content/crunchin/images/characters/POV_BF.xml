@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="POV_BF.png" width="3053" height="3009">
+	<SubTexture name="POV BF Down0000" x="1" y="2552" width="375" height="420" frameX="-60" frameY="-98" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Down0001" x="1" y="2552" width="375" height="420" frameX="-60" frameY="-98" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Down0002" x="2649" y="869" width="382" height="431" frameX="-46" frameY="-87" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Down0003" x="2649" y="869" width="382" height="431" frameX="-46" frameY="-87" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Down0004" x="2262" y="2032" width="382" height="437" frameX="-45" frameY="-81" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Down0005" x="2262" y="2032" width="382" height="437" frameX="-45" frameY="-81" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Down0006" x="2285" y="2472" width="382" height="437" frameX="-45" frameY="-81" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Down0007" x="2578" y="1503" width="382" height="437" frameX="-45" frameY="-81" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Down0008" x="2578" y="1503" width="382" height="437" frameX="-45" frameY="-81" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Down Miss0000" x="1" y="2552" width="375" height="420" frameX="-60" frameY="-98" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Down Miss0001" x="2647" y="1943" width="382" height="431" frameX="-46" frameY="-87" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Down Miss0002" x="2670" y="2377" width="382" height="431" frameX="-46" frameY="-87" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Down Miss0003" x="2645" y="1" width="382" height="431" frameX="-46" frameY="-87" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Down Miss0004" x="2645" y="435" width="382" height="431" frameX="-46" frameY="-87" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Down Miss0005" x="2645" y="435" width="382" height="431" frameX="-46" frameY="-87" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Down Miss0006" x="2645" y="435" width="382" height="431" frameX="-46" frameY="-87" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Down Miss0007" x="2645" y="435" width="382" height="431" frameX="-46" frameY="-87" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Down Miss0008" x="2645" y="435" width="382" height="431" frameX="-46" frameY="-87" frameWidth="541" frameHeight="581"/>
+	<SubTexture name="POV BF Idle0000" x="760" y="2504" width="394" height="448" frameX="-1" frameY="-31" frameWidth="395" frameHeight="480"/>
+	<SubTexture name="POV BF Idle0001" x="760" y="2504" width="394" height="448" frameX="-1" frameY="-31" frameWidth="395" frameHeight="480"/>
+	<SubTexture name="POV BF Idle0002" x="2265" y="1057" width="381" height="443" frameX="-0" frameY="-36" frameWidth="395" frameHeight="480"/>
+	<SubTexture name="POV BF Idle0003" x="2265" y="1057" width="381" height="443" frameX="-0" frameY="-36" frameWidth="395" frameHeight="480"/>
+	<SubTexture name="POV BF Idle0004" x="1157" y="2531" width="386" height="455" frameX="-4" frameY="-24" frameWidth="395" frameHeight="480"/>
+	<SubTexture name="POV BF Idle0005" x="1157" y="2531" width="386" height="455" frameX="-4" frameY="-24" frameWidth="395" frameHeight="480"/>
+	<SubTexture name="POV BF Idle0006" x="381" y="2504" width="376" height="472" frameX="-7" frameY="-7" frameWidth="395" frameHeight="480"/>
+	<SubTexture name="POV BF Idle0007" x="381" y="2504" width="376" height="472" frameX="-7" frameY="-7" frameWidth="395" frameHeight="480"/>
+	<SubTexture name="POV BF Idle0008" x="1546" y="2531" width="367" height="477" frameX="-9" frameY="-2" frameWidth="395" frameHeight="480"/>
+	<SubTexture name="POV BF Idle0009" x="1546" y="2531" width="367" height="477" frameX="-9" frameY="-2" frameWidth="395" frameHeight="480"/>
+	<SubTexture name="POV BF Idle0010" x="1893" y="2032" width="366" height="478" frameX="-9" frameY="-1" frameWidth="395" frameHeight="480"/>
+	<SubTexture name="POV BF Idle0011" x="1916" y="2513" width="366" height="478" frameX="-9" frameY="-1" frameWidth="395" frameHeight="480"/>
+	<SubTexture name="POV BF Idle0012" x="1916" y="2513" width="366" height="478" frameX="-9" frameY="-1" frameWidth="395" frameHeight="480"/>
+	<SubTexture name="POV BF Idle0013" x="1916" y="2513" width="366" height="478" frameX="-9" frameY="-1" frameWidth="395" frameHeight="480"/>
+	<SubTexture name="POV BF Idle0014" x="1916" y="2513" width="366" height="478" frameX="-9" frameY="-1" frameWidth="395" frameHeight="480"/>
+	<SubTexture name="POV BF Left0000" x="1" y="1" width="494" height="487" frameX="-0" frameY="-75" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left0001" x="1" y="1" width="494" height="487" frameX="-0" frameY="-75" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left0002" x="1430" y="1" width="476" height="492" frameX="-20" frameY="-70" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left0003" x="1430" y="1" width="476" height="492" frameX="-20" frameY="-70" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left0004" x="1" y="491" width="472" height="500" frameX="-26" frameY="-71" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left0005" x="1" y="491" width="472" height="500" frameX="-26" frameY="-71" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left0006" x="476" y="491" width="472" height="500" frameX="-26" frameY="-71" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left0007" x="476" y="491" width="472" height="500" frameX="-26" frameY="-71" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left0008" x="476" y="491" width="472" height="500" frameX="-26" frameY="-71" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left0009" x="476" y="491" width="472" height="500" frameX="-26" frameY="-71" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left Miss0000" x="1" y="1" width="494" height="487" frameX="-0" frameY="-75" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left Miss0001" x="951" y="1" width="476" height="492" frameX="-20" frameY="-70" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left Miss0002" x="951" y="496" width="476" height="492" frameX="-20" frameY="-70" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left Miss0003" x="951" y="991" width="476" height="492" frameX="-20" frameY="-70" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left Miss0004" x="1" y="994" width="476" height="492" frameX="-20" frameY="-70" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left Miss0005" x="1" y="994" width="476" height="492" frameX="-20" frameY="-70" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left Miss0006" x="1" y="994" width="476" height="492" frameX="-20" frameY="-70" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left Miss0007" x="1" y="994" width="476" height="492" frameX="-20" frameY="-70" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left Miss0008" x="1" y="994" width="476" height="492" frameX="-20" frameY="-70" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Left Miss0009" x="1" y="994" width="476" height="492" frameX="-20" frameY="-70" frameWidth="553" frameHeight="582"/>
+	<SubTexture name="POV BF Right0000" x="498" y="1" width="439" height="487" frameX="-59" frameY="-75" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right0001" x="498" y="1" width="439" height="487" frameX="-59" frameY="-75" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right0002" x="1363" y="1486" width="419" height="492" frameX="-57" frameY="-70" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right0003" x="1363" y="1486" width="419" height="492" frameX="-57" frameY="-70" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right0004" x="1852" y="496" width="410" height="501" frameX="-56" frameY="-70" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right0005" x="1852" y="496" width="410" height="501" frameX="-56" frameY="-70" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right0006" x="1852" y="1000" width="410" height="501" frameX="-56" frameY="-70" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right0007" x="1785" y="1504" width="410" height="501" frameX="-56" frameY="-70" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right0008" x="1785" y="1504" width="410" height="501" frameX="-56" frameY="-70" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right0009" x="1785" y="1504" width="410" height="501" frameX="-56" frameY="-70" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right Miss0000" x="498" y="1" width="439" height="487" frameX="-59" frameY="-75" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right Miss0001" x="1430" y="496" width="419" height="492" frameX="-57" frameY="-70" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right Miss0002" x="480" y="994" width="458" height="492" frameX="-57" frameY="-70" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right Miss0003" x="1430" y="991" width="419" height="492" frameX="-57" frameY="-70" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right Miss0004" x="941" y="1486" width="419" height="492" frameX="-57" frameY="-70" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right Miss0005" x="941" y="1486" width="419" height="492" frameX="-57" frameY="-70" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right Miss0006" x="941" y="1486" width="419" height="492" frameX="-57" frameY="-70" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right Miss0007" x="941" y="1486" width="419" height="492" frameX="-57" frameY="-70" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right Miss0008" x="941" y="1486" width="419" height="492" frameX="-57" frameY="-70" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Right Miss0009" x="941" y="1486" width="419" height="492" frameX="-57" frameY="-70" frameWidth="541" frameHeight="582"/>
+	<SubTexture name="POV BF Up0000" x="381" y="1489" width="366" height="542" frameX="-125" frameY="-39" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up0001" x="381" y="1489" width="366" height="542" frameX="-125" frameY="-39" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up0002" x="1" y="2024" width="377" height="525" frameX="-125" frameY="-56" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up0003" x="1" y="2024" width="377" height="525" frameX="-125" frameY="-56" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up0004" x="750" y="1981" width="378" height="520" frameX="-125" frameY="-61" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up0005" x="750" y="1981" width="378" height="520" frameX="-125" frameY="-61" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up0006" x="1131" y="1981" width="378" height="520" frameX="-125" frameY="-61" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up0007" x="1512" y="2008" width="378" height="520" frameX="-125" frameY="-61" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up0008" x="1512" y="2008" width="378" height="520" frameX="-125" frameY="-61" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up0009" x="1512" y="2008" width="378" height="520" frameX="-125" frameY="-61" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up Miss0000" x="381" y="1489" width="366" height="542" frameX="-125" frameY="-39" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up Miss0001" x="1" y="1489" width="377" height="532" frameX="-125" frameY="-49" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up Miss0002" x="2198" y="1504" width="377" height="525" frameX="-125" frameY="-56" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up Miss0003" x="2265" y="1" width="377" height="525" frameX="-125" frameY="-56" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up Miss0004" x="2265" y="529" width="377" height="525" frameX="-125" frameY="-56" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up Miss0005" x="2265" y="529" width="377" height="525" frameX="-125" frameY="-56" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up Miss0006" x="2265" y="529" width="377" height="525" frameX="-125" frameY="-56" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up Miss0007" x="2265" y="529" width="377" height="525" frameX="-125" frameY="-56" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up Miss0008" x="2265" y="529" width="377" height="525" frameX="-125" frameY="-56" frameWidth="541" frameHeight="618"/>
+	<SubTexture name="POV BF Up Miss0009" x="2265" y="529" width="377" height="525" frameX="-125" frameY="-56" frameWidth="541" frameHeight="618"/>
+</TextureAtlas>

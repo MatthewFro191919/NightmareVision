@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skeletone.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CROWD instance 10000" x="0" y="0" width="416" height="364" frameX="-2" frameY="-5" frameWidth="418" frameHeight="370"/>
+	<SubTexture name="CROWD instance 10001" x="416" y="0" width="416" height="370" frameX="-1" frameY="0" frameWidth="418" frameHeight="370"/>
+	<SubTexture name="CROWD instance 10002" x="832" y="0" width="417" height="370" frameX="0" frameY="0" frameWidth="418" frameHeight="370"/>
+	<SubTexture name="CROWD instance 10003" x="1249" y="0" width="417" height="370" frameX="0" frameY="0" frameWidth="418" frameHeight="370"/>
+	<SubTexture name="CROWD instance 10004" x="0" y="370" width="416" height="370" frameX="-1" frameY="0" frameWidth="418" frameHeight="370"/>
+	<SubTexture name="CROWD instance 10005" x="416" y="370" width="416" height="370" frameX="-1" frameY="0" frameWidth="418" frameHeight="370"/>
+	<SubTexture name="CROWD instance 10006" x="832" y="370" width="415" height="368" frameX="-2" frameY="-1" frameWidth="418" frameHeight="370"/>
+	<SubTexture name="CROWD instance 10007" x="1247" y="370" width="415" height="368" frameX="-2" frameY="-1" frameWidth="418" frameHeight="370"/>
+	<SubTexture name="CROWD instance 10008" x="0" y="740" width="415" height="345" frameX="-2" frameY="-24" frameWidth="418" frameHeight="370"/>
+	<SubTexture name="CROWD instance 10009" x="415" y="740" width="415" height="345" frameX="-2" frameY="-24" frameWidth="418" frameHeight="370"/>
+	<SubTexture name="CROWD instance 10010" x="830" y="740" width="415" height="339" frameX="-2" frameY="-30" frameWidth="418" frameHeight="370"/>
+	<SubTexture name="CROWD instance 10011" x="1245" y="740" width="415" height="339" frameX="-2" frameY="-30" frameWidth="418" frameHeight="370"/>
+	<SubTexture name="CROWD instance 10012" x="0" y="1085" width="415" height="336" frameX="-2" frameY="-33" frameWidth="418" frameHeight="370"/>
+	<SubTexture name="CROWD instance 10013" x="415" y="1085" width="415" height="336" frameX="-2" frameY="-33" frameWidth="418" frameHeight="370"/>
+</TextureAtlas>

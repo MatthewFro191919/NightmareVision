@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FreeplaySmile.png"><SubTexture name="FreeplaySmile select0000" x="0" y="0" width="337" height="123" frameX="0" frameY="0" frameWidth="337" frameHeight="123" />
+<SubTexture name="FreeplaySmile normal0000" x="0" y="123" width="337" height="123" frameX="0" frameY="0" frameWidth="337" frameHeight="123" />
+</TextureAtlas>

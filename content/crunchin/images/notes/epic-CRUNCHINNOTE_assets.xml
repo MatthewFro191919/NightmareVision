@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="epicNOTE_assets.png"><SubTexture name="green0000" x="0" y="0" width="182" height="177" frameX="0" frameY="0" frameWidth="182" frameHeight="177" />
+<SubTexture name="red0000" x="182" y="0" width="182" height="177" frameX="0" frameY="0" frameWidth="182" frameHeight="177" />
+<SubTexture name="blue0000" x="0" y="177" width="182" height="177" frameX="0" frameY="0" frameWidth="182" frameHeight="177" />
+<SubTexture name="purple0000" x="182" y="177" width="182" height="177" frameX="0" frameY="0" frameWidth="182" frameHeight="177" />
+</TextureAtlas>

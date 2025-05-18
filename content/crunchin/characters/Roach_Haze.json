@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				185,
+				240
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CBF Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				404,
+				314
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "CBF Left Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				189,
+				250
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "CBF Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				419,
+				282
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "CBF Up Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				187,
+				259
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "CBF Right Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				259
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CBF Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				182,
+				282
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CBF Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				189,
+				248
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CBF Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				203,
+				314
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CBF Left0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Roach_Haze",
+	"position": [
+		230,
+		550
+	],
+	"healthicon": "cbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		175,
+		195
+	],
+	"camera_position": [
+		230,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

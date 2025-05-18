@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="cereal-guy.png" width="4066" height="5472">
+	<SubTexture name="cereal-guy idle0000" x="3228" y="1502" width="782" height="760" frameX="-73" frameY="-64" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy idle0001" x="1641" y="767" width="799" height="734" frameX="-56" frameY="-90" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy idle0002" x="3239" y="767" width="792" height="732" frameX="-63" frameY="-92" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy idle0003" x="3279" y="1" width="786" height="732" frameX="-69" frameY="-92" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy idle0004" x="2359" y="2398" width="784" height="746" frameX="-71" frameY="-78" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy idle0005" x="1557" y="4627" width="782" height="758" frameX="-73" frameY="-66" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy idle0006" x="3228" y="1502" width="782" height="760" frameX="-73" frameY="-64" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy idle0007" x="3228" y="1502" width="782" height="760" frameX="-73" frameY="-64" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy right0000" x="786" y="3952" width="768" height="754" frameX="-87" frameY="-70" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy right0001" x="1567" y="3868" width="769" height="756" frameX="-86" frameY="-68" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy right0002" x="1571" y="3101" width="773" height="764" frameX="-82" frameY="-60" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy right0003" x="1" y="3186" width="778" height="763" frameX="-77" frameY="-61" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy down0000" x="2443" y="767" width="793" height="681" frameX="-62" frameY="-143" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy down0001" x="2485" y="1" width="791" height="683" frameX="-64" frameY="-141" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy down0002" x="1571" y="2398" width="785" height="700" frameX="-70" frameY="-124" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy down0003" x="2339" y="3911" width="782" height="707" frameX="-73" frameY="-117" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy left0000" x="786" y="1" width="852" height="765" frameX="-3" frameY="-59" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy left0001" x="1" y="801" width="853" height="761" frameX="-2" frameY="-63" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy left0002" x="780" y="1594" width="841" height="763" frameX="-14" frameY="-61" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy left0003" x="1641" y="1" width="841" height="763" frameX="-14" frameY="-61" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy up0000" x="857" y="769" width="775" height="822" frameX="-80" frameY="-2" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy up0001" x="1" y="1565" width="776" height="818" frameX="-79" frameY="-6" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy up0002" x="1624" y="1594" width="778" height="801" frameX="-77" frameY="-23" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy up0003" x="786" y="2360" width="782" height="790" frameX="-73" frameY="-34" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy chew0000" x="1" y="4716" width="782" height="755" frameX="-73" frameY="-69" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy chew0001" x="3132" y="3910" width="782" height="758" frameX="-73" frameY="-66" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy chew0002" x="2347" y="3147" width="782" height="761" frameX="-73" frameY="-63" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy chew0003" x="3132" y="3147" width="782" height="760" frameX="-73" frameY="-64" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy mmhmm0000" x="1" y="1" width="782" height="797" frameX="-73" frameY="-27" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy mmhmm0001" x="1" y="2386" width="782" height="797" frameX="-73" frameY="-27" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy mmhmm0002" x="2443" y="1451" width="782" height="782" frameX="-73" frameY="-42" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy mmhmm0003" x="1" y="3952" width="782" height="761" frameX="-73" frameY="-63" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy mmhmm0004" x="3127" y="4671" width="782" height="746" frameX="-73" frameY="-78" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy mmhmm0005" x="2342" y="4621" width="782" height="752" frameX="-73" frameY="-72" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy mmhmm0006" x="3228" y="2265" width="782" height="760" frameX="-73" frameY="-64" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="cereal-guy mmhmm0007" x="782" y="3186" width="782" height="762" frameX="-73" frameY="-62" frameWidth="857" frameHeight="826"/>
+</TextureAtlas>

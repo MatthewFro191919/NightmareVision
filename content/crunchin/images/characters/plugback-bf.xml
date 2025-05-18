@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="plugback-bf.png" width="8000" height="2037">
+	<SubTexture name="plugback-bf idle0000" x="1805" y="879" width="604" height="535" rotated="true" frameX="-109" frameY="-157" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf idle0001" x="2412" y="886" width="604" height="535" rotated="true" frameX="-109" frameY="-157" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf idle0002" x="3019" y="889" width="604" height="535" rotated="true" frameX="-108" frameY="-157" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf idle0003" x="3626" y="898" width="604" height="535" rotated="true" frameX="-108" frameY="-157" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf idle0004" x="6196" y="374" width="600" height="533" rotated="true" frameX="-108" frameY="-161" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf idle0005" x="6799" y="374" width="600" height="533" rotated="true" frameX="-108" frameY="-161" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf idle0006" x="4994" y="371" width="598" height="532" rotated="true" frameX="-108" frameY="-164" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf idle0007" x="5595" y="371" width="598" height="532" rotated="true" frameX="-108" frameY="-164" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf idle0008" x="7402" y="374" width="597" height="533" rotated="true" frameX="-108" frameY="-165" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf idle0009" x="1" y="736" width="597" height="533" rotated="true" frameX="-108" frameY="-165" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf idle0010" x="601" y="749" width="599" height="534" rotated="true" frameX="-109" frameY="-163" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf idle0011" x="1203" y="879" width="599" height="534" rotated="true" frameX="-109" frameY="-163" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf idle0012" x="4233" y="898" width="601" height="535" rotated="true" frameX="-109" frameY="-161" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf idle0013" x="4837" y="906" width="601" height="535" rotated="true" frameX="-109" frameY="-161" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf idle0014" x="5441" y="906" width="602" height="535" rotated="true" frameX="-109" frameY="-159" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf idle0015" x="6046" y="910" width="602" height="535" rotated="true" frameX="-109" frameY="-159" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf left0000" x="3890" y="367" width="549" height="528" rotated="true" frameX="-63" frameY="-170" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf left0001" x="4442" y="367" width="549" height="528" rotated="true" frameX="-63" frameY="-170" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf left0002" x="3334" y="366" width="553" height="520" rotated="true" frameX="-71" frameY="-166" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf left0003" x="2778" y="366" width="553" height="517" rotated="true" frameX="-74" frameY="-166" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf left0004" x="1652" y="365" width="560" height="511" rotated="true" frameX="-80" frameY="-158" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf left0005" x="2215" y="365" width="560" height="511" rotated="true" frameX="-80" frameY="-158" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf down0000" x="5551" y="1" width="592" height="367" frameX="-107" frameY="-350" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf down0001" x="6146" y="1" width="592" height="367" frameX="-107" frameY="-350" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf down0002" x="6741" y="1" width="589" height="370" frameX="-108" frameY="-347" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf down0003" x="7333" y="1" width="589" height="370" frameX="-108" frameY="-347" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf down0004" x="474" y="352" width="586" height="381" frameX="-108" frameY="-335" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf down0005" x="1063" y="365" width="586" height="381" frameX="-108" frameY="-335" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf up0000" x="576" y="1286" width="578" height="559" rotated="true" frameX="-92" frameY="-196" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf up0001" x="1" y="1272" width="572" height="557" rotated="true" frameX="-94" frameY="-202" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf up0002" x="7227" y="910" width="576" height="555" rotated="true" frameX="-94" frameY="-198" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf up0003" x="6651" y="910" width="573" height="554" rotated="true" frameX="-95" frameY="-201" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf up0004" x="1727" y="1417" width="569" height="563" rotated="true" frameX="-84" frameY="-205" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf up0005" x="1157" y="1416" width="567" height="562" rotated="true" frameX="-85" frameY="-207" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf right0000" x="5209" y="1444" width="727" height="568" frameX="-126" frameY="-207" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf right0001" x="5939" y="1467" width="727" height="569" frameX="-126" frameY="-206" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf right0002" x="3753" y="1436" width="723" height="567" frameX="-124" frameY="-207" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf right0003" x="4479" y="1444" width="727" height="567" frameX="-120" frameY="-207" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf right0004" x="2299" y="1427" width="723" height="563" frameX="-113" frameY="-211" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf right0005" x="3025" y="1436" width="725" height="563" frameX="-111" frameY="-211" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0000" x="1805" y="879" width="604" height="535" rotated="true" frameX="-109" frameY="-157" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0001" x="1805" y="879" width="604" height="535" rotated="true" frameX="-109" frameY="-157" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0002" x="1805" y="879" width="604" height="535" rotated="true" frameX="-109" frameY="-157" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0003" x="1805" y="879" width="604" height="535" rotated="true" frameX="-109" frameY="-157" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0004" x="1805" y="879" width="604" height="535" rotated="true" frameX="-109" frameY="-157" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0005" x="1805" y="879" width="604" height="535" rotated="true" frameX="-109" frameY="-157" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0006" x="1611" y="1" width="484" height="361" rotated="true" frameX="-109" frameY="-203" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0007" x="1805" y="879" width="604" height="535" rotated="true" frameX="-109" frameY="-157" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0008" x="1805" y="879" width="604" height="535" rotated="true" frameX="-109" frameY="-157" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0009" x="1805" y="879" width="604" height="535" rotated="true" frameX="-109" frameY="-157" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0010" x="1611" y="1" width="484" height="361" rotated="true" frameX="-109" frameY="-203" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0011" x="1805" y="879" width="604" height="535" rotated="true" frameX="-109" frameY="-157" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0012" x="1611" y="1" width="484" height="361" rotated="true" frameX="-109" frameY="-203" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0013" x="1611" y="1" width="484" height="361" rotated="true" frameX="-109" frameY="-203" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0014" x="1611" y="1" width="484" height="361" rotated="true" frameX="-109" frameY="-203" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0015" x="2098" y="1" width="484" height="361" rotated="true" frameX="-108" frameY="-203" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0016" x="3077" y="1" width="484" height="362" rotated="true" frameX="-109" frameY="-203" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0017" x="3564" y="1" width="484" height="362" rotated="true" frameX="-108" frameY="-203" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0018" x="4051" y="1" width="484" height="363" rotated="true" frameX="-109" frameY="-203" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0019" x="2585" y="1" width="489" height="361" rotated="true" frameX="-108" frameY="-198" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0020" x="5055" y="1" width="493" height="365" rotated="true" frameX="-109" frameY="-194" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0021" x="1111" y="1" width="497" height="359" rotated="true" frameX="-108" frameY="-190" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0022" x="4538" y="1" width="514" height="363" rotated="true" frameX="-109" frameY="-173" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0023" x="574" y="1" width="534" height="348" rotated="true" frameX="-115" frameY="-153" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0024" x="1" y="1" width="570" height="338" rotated="true" frameX="-121" frameY="-117" frameWidth="904" frameHeight="804"/>
+	<SubTexture name="plugback-bf freedom0025" x="1" y="342" width="470" height="388" rotated="true" frameX="-95" frameY="-218" frameWidth="904" frameHeight="804"/>
+</TextureAtlas>

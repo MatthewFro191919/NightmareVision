@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FreeplayRumor.png"><SubTexture name="FreeplayRumor hover0000" x="0" y="0" width="443" height="471" frameX="0" frameY="0" frameWidth="443" frameHeight="471" />
+<SubTexture name="FreeplayRumor normal0000" x="443" y="0" width="443" height="471" frameX="0" frameY="0" frameWidth="443" frameHeight="471" />
+<SubTexture name="FreeplayRumor played hover0000" x="0" y="471" width="443" height="471" frameX="0" frameY="0" frameWidth="443" frameHeight="471" />
+<SubTexture name="FreeplayRumor played normal0000" x="443" y="471" width="443" height="471" frameX="0" frameY="0" frameWidth="443" frameHeight="471" />
+<SubTexture name="FreeplayRumor locked0000" x="0" y="942" width="443" height="471" frameX="0" frameY="0" frameWidth="443" frameHeight="471" />
+</TextureAtlas>

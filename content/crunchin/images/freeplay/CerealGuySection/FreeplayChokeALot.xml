@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FreeplayChokeALot.png"><SubTexture name="FreeplayChokeALot select0000" x="0" y="0" width="356" height="122" frameX="0" frameY="0" frameWidth="356" frameHeight="122" />
+<SubTexture name="FreeplayChokeALot normal0000" x="0" y="122" width="356" height="122" frameX="0" frameY="0" frameWidth="356" frameHeight="122" />
+</TextureAtlas>

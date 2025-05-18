@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FreeplayCrunch.png"><SubTexture name="FreeplayCrunch select0000" x="0" y="0" width="326" height="110" frameX="0" frameY="0" frameWidth="326" frameHeight="110" />
+<SubTexture name="FreeplayCrunch normal0000" x="0" y="110" width="326" height="110" frameX="0" frameY="0" frameWidth="326" frameHeight="110" />
+</TextureAtlas>

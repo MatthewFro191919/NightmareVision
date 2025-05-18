@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="player-troll.png" width="3615" height="3936">
+	<SubTexture name="player-troll idle0000" x="3109" y="1" width="505" height="914" frameX="-104" frameY="-136" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll idle0001" x="1953" y="2794" width="502" height="915" frameX="-107" frameY="-135" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll idle0002" x="998" y="2819" width="491" height="922" frameX="-118" frameY="-128" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll idle0003" x="2621" y="932" width="485" height="926" frameX="-124" frameY="-124" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll idle0004" x="1645" y="935" width="485" height="928" frameX="-124" frameY="-122" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll left0000" x="1169" y="1" width="473" height="932" frameX="-136" frameY="-118" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll left0001" x="957" y="953" width="477" height="932" frameX="-132" frameY="-118" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll left0002" x="1" y="2077" width="485" height="928" frameX="-124" frameY="-122" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll down0000" x="3109" y="1829" width="493" height="904" frameX="-116" frameY="-146" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll down0001" x="3109" y="918" width="484" height="908" frameX="-125" frameY="-142" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll down0002" x="2621" y="2789" width="485" height="918" frameX="-124" frameY="-132" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll up0000" x="708" y="1" width="458" height="949" frameX="-151" frameY="-101" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll up0001" x="1" y="1128" width="465" height="946" frameX="-144" frameY="-104" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll up0002" x="469" y="1128" width="485" height="938" frameX="-124" frameY="-112" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll right0000" x="1" y="3008" width="492" height="927" frameX="-117" frameY="-123" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll right0001" x="496" y="3000" width="499" height="926" frameX="-110" frameY="-124" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll right0002" x="489" y="2069" width="485" height="928" frameX="-124" frameY="-122" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll singleftmiss0000" x="1465" y="1866" width="485" height="928" frameX="-124" frameY="-122" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll singleftmiss0001" x="2133" y="1" width="485" height="928" frameX="-124" frameY="-122" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll singdownmiss0000" x="2621" y="1861" width="485" height="925" frameX="-124" frameY="-125" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll singdownmiss0001" x="977" y="1888" width="485" height="928" frameX="-124" frameY="-122" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll singupmiss0000" x="1645" y="1" width="485" height="931" frameX="-124" frameY="-119" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll singupmiss0001" x="2621" y="1" width="485" height="928" frameX="-124" frameY="-122" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll singrightmiss0000" x="2133" y="932" width="485" height="928" frameX="-124" frameY="-122" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll singrightmiss0001" x="2133" y="1863" width="485" height="928" frameX="-124" frameY="-122" frameWidth="708" frameHeight="1128"/>
+	<SubTexture name="player-troll die0000" x="1" y="1" width="704" height="1124" frameX="-2" frameY="-2" frameWidth="708" frameHeight="1128"/>
+</TextureAtlas>

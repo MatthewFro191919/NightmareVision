@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GunMechanicUI.png">
+    <SubTexture name="LOAD10000" x="0" y="0" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="LOAD10001" x="254" y="0" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="LOAD10002" x="508" y="0" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="LOAD20000" x="762" y="0" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="LOAD20001" x="1016" y="0" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="LOAD20002" x="1270" y="0" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="LOAD30000" x="0" y="254" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="LOAD30001" x="254" y="254" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="LOAD30002" x="508" y="254" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="LOAD40000" x="762" y="254" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="LOAD40001" x="1016" y="254" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="LOAD40002" x="1270" y="254" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="LOAD50000" x="0" y="508" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="LOAD50001" x="254" y="508" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="LOAD50002" x="508" y="508" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="LOAD60000" x="762" y="508" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="LOAD60001" x="1016" y="508" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="LOAD60002" x="1270" y="508" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE60000" x="0" y="762" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE60001" x="254" y="762" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE60002" x="508" y="762" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE60003" x="762" y="762" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE50000" x="1016" y="762" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE50001" x="1270" y="762" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE50002" x="0" y="1016" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE50003" x="254" y="1016" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE40000" x="508" y="1016" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE40001" x="762" y="1016" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE40002" x="1016" y="1016" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE40003" x="1270" y="1016" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE30000" x="0" y="1270" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE30001" x="254" y="1270" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE30002" x="508" y="1270" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE30003" x="762" y="1270" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE20000" x="1016" y="1270" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE20001" x="1270" y="1270" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE20002" x="0" y="1524" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE20003" x="254" y="1524" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE10000" x="508" y="1524" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE10001" x="762" y="1524" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE10002" x="1016" y="1524" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+    <SubTexture name="FIRE10003" x="1270" y="1524" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+</TextureAtlas>

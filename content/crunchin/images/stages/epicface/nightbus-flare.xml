@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nightbus-flare.png"><SubTexture name="nightbus-flare loop0000" x="0" y="0" width="563" height="270" frameX="0" frameY="0" frameWidth="563" frameHeight="270" />
+<SubTexture name="nightbus-flare loop0001" x="563" y="0" width="563" height="270" frameX="0" frameY="0" frameWidth="563" frameHeight="270" />
+<SubTexture name="nightbus-flare loop0002" x="0" y="270" width="563" height="270" frameX="0" frameY="0" frameWidth="563" frameHeight="270" />
+<SubTexture name="nightbus-flare loop0003" x="563" y="270" width="563" height="270" frameX="0" frameY="0" frameWidth="563" frameHeight="270" />
+</TextureAtlas>

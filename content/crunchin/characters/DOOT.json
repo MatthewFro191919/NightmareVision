@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "DOOT idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "DOOT left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "DOOT down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "DOOT up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "DOOT right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "cheer",
+			"fps": 14,
+			"name": "DOOT cheer",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DOOT",
+	"position": [
+		-190,
+		30
+	],
+	"healthicon": "doot",
+	"flip_x": false,
+	"healthbar_colors": [
+		219,
+		197,
+		130
+	],
+	"camera_position": [
+		190,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

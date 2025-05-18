@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="restartButtonalert.png"><SubTexture name="restartButtonalert hover0000" x="0" y="0" width="567" height="138" frameX="0" frameY="0" frameWidth="567" frameHeight="138" />
+<SubTexture name="restartButtonalert normal0000" x="0" y="138" width="567" height="138" frameX="0" frameY="0" frameWidth="567" frameHeight="138" />
+</TextureAtlas>

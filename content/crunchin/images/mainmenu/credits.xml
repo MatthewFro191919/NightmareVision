@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="credits.png"><SubTexture name="credits normal0000" x="0" y="0" width="965" height="450" frameX="0" frameY="0" frameWidth="965" frameHeight="450" />
+<SubTexture name="credits select0000" x="0" y="450" width="965" height="450" frameX="0" frameY="0" frameWidth="965" frameHeight="450" />
+</TextureAtlas>

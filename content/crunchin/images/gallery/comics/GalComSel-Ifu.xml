@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GalComSel-Ifu.png"><SubTexture name="GalComSel-Ifu locked0000" x="0" y="0" width="310" height="381" frameX="0" frameY="0" frameWidth="310" frameHeight="381" />
+<SubTexture name="GalComSel-Ifu unlock0000" x="0" y="381" width="310" height="381" frameX="0" frameY="0" frameWidth="310" frameHeight="381" />
+</TextureAtlas>

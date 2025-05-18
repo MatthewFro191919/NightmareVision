@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Scribble arm.png">
+<SubTexture name="Scribble arm Idle0000" x="0" y="444" width="383" height="398" frameX="-398" frameY="-654" frameWidth="1480" frameHeight="1480" />
+<SubTexture name="Scribble arm Idle0001" x="0" y="444" width="383" height="398" frameX="-403" frameY="-662" frameWidth="1480" frameHeight="1480" />
+<SubTexture name="Scribble arm Idle0002" x="383" y="444" width="397" height="387" frameX="-416" frameY="-663" frameWidth="1480" frameHeight="1480" />
+<SubTexture name="Scribble arm Up0000" x="773" y="0" width="410" height="432" frameX="-216" frameY="-325" frameWidth="1480" frameHeight="1480" />
+<SubTexture name="Scribble arm Up0001" x="378" y="0" width="395" height="435" frameX="-231" frameY="-281" frameWidth="1480" frameHeight="1480" />
+<SubTexture name="Scribble arm Up0002" x="0" y="0" width="378" height="444" frameX="-251" frameY="-244" frameWidth="1480" frameHeight="1480" />
+<SubTexture name="Scribble arm Down0000" x="465" y="842" width="933" height="211" frameX="-440" frameY="-611" frameWidth="1480" frameHeight="1480" />
+<SubTexture name="Scribble arm Down0001" x="0" y="1192" width="945" height="203" frameX="-438" frameY="-629" frameWidth="1480" frameHeight="1480" />
+<SubTexture name="Scribble arm Down0002" x="0" y="1395" width="963" height="189" frameX="-441" frameY="-646" frameWidth="1480" frameHeight="1480" />
+<SubTexture name="Scribble arm Right0000" x="1183" y="364" width="358" height="187" frameX="-661" frameY="-657" frameWidth="1480" frameHeight="1480" />
+<SubTexture name="Scribble arm Right0001" x="1183" y="364" width="358" height="187" frameX="-668" frameY="-653" frameWidth="1480" frameHeight="1480" />
+<SubTexture name="Scribble arm Right0002" x="1183" y="551" width="334" height="187" frameX="-680" frameY="-653" frameWidth="1480" frameHeight="1480" />
+<SubTexture name="Scribble arm Left0000" x="1183" y="0" width="443" height="364" frameX="-440" frameY="-616" frameWidth="1480" frameHeight="1480" />
+<SubTexture name="Scribble arm Left0001" x="0" y="842" width="465" height="350" frameX="-421" frameY="-613" frameWidth="1480" frameHeight="1480" />
+<SubTexture name="Scribble arm Left0002" x="0" y="842" width="465" height="350" frameX="-396" frameY="-616" frameWidth="1480" frameHeight="1480" />
+</TextureAtlas>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ex2menu-rave.png">
+    <SubTexture name="exitButtonrave normal0000" x="0" y="0" width="646" height="149" frameX="0" frameY="0" frameWidth="646" frameHeight="149" />
+    <SubTexture name="exitButtonrave hover0000" x="0" y="149" width="646" height="149" frameX="0" frameY="0" frameWidth="646" frameHeight="149" />
+</TextureAtlas>

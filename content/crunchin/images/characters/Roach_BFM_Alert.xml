@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Roach_BFM_Alert.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CBF Alert Down0000" x="0" y="0" width="437" height="493"/>
+	<SubTexture name="CBF Alert Down0001" x="0" y="0" width="437" height="493"/>
+	<SubTexture name="CBF Alert Down0002" x="437" y="0" width="437" height="493"/>
+	<SubTexture name="CBF Alert Down0003" x="437" y="0" width="437" height="493"/>
+	<SubTexture name="CBF Alert Down0004" x="874" y="0" width="437" height="493"/>
+	<SubTexture name="CBF Alert Down0005" x="874" y="0" width="437" height="493"/>
+	<SubTexture name="CBF Alert Down0006" x="1311" y="0" width="437" height="493"/>
+	<SubTexture name="CBF Alert Down0007" x="1311" y="0" width="437" height="493"/>
+	<SubTexture name="CBF Alert Down0008" x="1748" y="0" width="437" height="493"/>
+	<SubTexture name="CBF Alert Down0009" x="1748" y="0" width="437" height="493"/>
+	<SubTexture name="CBF Alert Down Miss0000" x="2185" y="0" width="941" height="640"/>
+	<SubTexture name="CBF Alert Down Miss0001" x="3126" y="0" width="941" height="640"/>
+	<SubTexture name="CBF Alert Down Miss0002" x="3126" y="0" width="941" height="640"/>
+	<SubTexture name="CBF Alert Down Miss0003" x="4067" y="0" width="941" height="640"/>
+	<SubTexture name="CBF Alert Down Miss0004" x="4067" y="0" width="941" height="640"/>
+	<SubTexture name="CBF Alert Down Miss0005" x="5008" y="0" width="941" height="640"/>
+	<SubTexture name="CBF Alert Down Miss0006" x="5008" y="0" width="941" height="640"/>
+	<SubTexture name="CBF Alert Down Miss0007" x="5949" y="0" width="941" height="640"/>
+	<SubTexture name="CBF Alert Idle0000" x="6890" y="0" width="467" height="624"/>
+	<SubTexture name="CBF Alert Idle0001" x="6890" y="0" width="467" height="624"/>
+	<SubTexture name="CBF Alert Idle0002" x="7357" y="0" width="467" height="624"/>
+	<SubTexture name="CBF Alert Idle0003" x="7357" y="0" width="467" height="624"/>
+	<SubTexture name="CBF Alert Idle0004" x="0" y="640" width="467" height="624"/>
+	<SubTexture name="CBF Alert Idle0005" x="0" y="640" width="467" height="624"/>
+	<SubTexture name="CBF Alert Idle0006" x="467" y="640" width="467" height="624"/>
+	<SubTexture name="CBF Alert Idle0007" x="467" y="640" width="467" height="624"/>
+	<SubTexture name="CBF Alert Idle0008" x="934" y="640" width="467" height="624"/>
+	<SubTexture name="CBF Alert Idle0009" x="934" y="640" width="467" height="624"/>
+	<SubTexture name="CBF Alert Idle0010" x="1401" y="640" width="467" height="624"/>
+	<SubTexture name="CBF Alert Idle0011" x="1401" y="640" width="467" height="624"/>
+	<SubTexture name="CBF Alert Idle0012" x="934" y="640" width="467" height="624"/>
+	<SubTexture name="CBF Alert Idle0013" x="934" y="640" width="467" height="624"/>
+	<SubTexture name="CBF Alert Idle0014" x="1401" y="640" width="467" height="624"/>
+	<SubTexture name="CBF Alert Left0000" x="1868" y="640" width="441" height="570"/>
+	<SubTexture name="CBF Alert Left0001" x="1868" y="640" width="441" height="570"/>
+	<SubTexture name="CBF Alert Left0002" x="2309" y="640" width="441" height="570"/>
+	<SubTexture name="CBF Alert Left0003" x="2309" y="640" width="441" height="570"/>
+	<SubTexture name="CBF Alert Left0004" x="2750" y="640" width="441" height="570"/>
+	<SubTexture name="CBF Alert Left0005" x="2750" y="640" width="441" height="570"/>
+	<SubTexture name="CBF Alert Left0006" x="3191" y="640" width="441" height="570"/>
+	<SubTexture name="CBF Alert Left0007" x="3191" y="640" width="441" height="570"/>
+	<SubTexture name="CBF Alert Left0008" x="3632" y="640" width="441" height="570"/>
+	<SubTexture name="CBF Alert Left0009" x="3632" y="640" width="441" height="570"/>
+	<SubTexture name="CBF Alert Left Miss0000" x="4073" y="640" width="816" height="782"/>
+	<SubTexture name="CBF Alert Left Miss0001" x="4889" y="640" width="816" height="782"/>
+	<SubTexture name="CBF Alert Left Miss0002" x="4889" y="640" width="816" height="782"/>
+	<SubTexture name="CBF Alert Left Miss0003" x="5705" y="640" width="816" height="782"/>
+	<SubTexture name="CBF Alert Left Miss0004" x="5705" y="640" width="816" height="782"/>
+	<SubTexture name="CBF Alert Left Miss0005" x="6521" y="640" width="816" height="782"/>
+	<SubTexture name="CBF Alert Left Miss0006" x="6521" y="640" width="816" height="782"/>
+	<SubTexture name="CBF Alert Left Miss0007" x="7337" y="640" width="816" height="782"/>
+	<SubTexture name="CBF Alert Right0000" x="0" y="1422" width="453" height="516"/>
+	<SubTexture name="CBF Alert Right0001" x="0" y="1422" width="453" height="516"/>
+	<SubTexture name="CBF Alert Right0002" x="453" y="1422" width="453" height="516"/>
+	<SubTexture name="CBF Alert Right0003" x="453" y="1422" width="453" height="516"/>
+	<SubTexture name="CBF Alert Right0004" x="906" y="1422" width="453" height="516"/>
+	<SubTexture name="CBF Alert Right0005" x="906" y="1422" width="453" height="516"/>
+	<SubTexture name="CBF Alert Right0006" x="1359" y="1422" width="453" height="516"/>
+	<SubTexture name="CBF Alert Right0007" x="1359" y="1422" width="453" height="516"/>
+	<SubTexture name="CBF Alert Right0008" x="1812" y="1422" width="453" height="516"/>
+	<SubTexture name="CBF Alert Right0009" x="1812" y="1422" width="453" height="516"/>
+	<SubTexture name="CBF Alert Right Miss 0000" x="2265" y="1422" width="943" height="705"/>
+	<SubTexture name="CBF Alert Right Miss 0001" x="3208" y="1422" width="943" height="705"/>
+	<SubTexture name="CBF Alert Right Miss 0002" x="4151" y="1422" width="943" height="705"/>
+	<SubTexture name="CBF Alert Right Miss 0003" x="5094" y="1422" width="943" height="705"/>
+	<SubTexture name="CBF Alert Right Miss 0004" x="6037" y="1422" width="943" height="705"/>
+	<SubTexture name="CBF Alert Right Miss 0005" x="6980" y="1422" width="943" height="705"/>
+	<SubTexture name="CBF Alert Right Miss 0006" x="0" y="2127" width="943" height="705"/>
+	<SubTexture name="CBF Alert Right Miss 0007" x="943" y="2127" width="943" height="705"/>
+	<SubTexture name="CBF Alert Up0000" x="1886" y="2127" width="465" height="567"/>
+	<SubTexture name="CBF Alert Up0001" x="1886" y="2127" width="465" height="567"/>
+	<SubTexture name="CBF Alert Up0002" x="2351" y="2127" width="465" height="567"/>
+	<SubTexture name="CBF Alert Up0003" x="2351" y="2127" width="465" height="567"/>
+	<SubTexture name="CBF Alert Up0004" x="2816" y="2127" width="465" height="567"/>
+	<SubTexture name="CBF Alert Up0005" x="2816" y="2127" width="465" height="567"/>
+	<SubTexture name="CBF Alert Up0006" x="3281" y="2127" width="465" height="567"/>
+	<SubTexture name="CBF Alert Up0007" x="3281" y="2127" width="465" height="567"/>
+	<SubTexture name="CBF Alert Up0008" x="3746" y="2127" width="465" height="567"/>
+	<SubTexture name="CBF Alert Up0009" x="3746" y="2127" width="465" height="567"/>
+	<SubTexture name="CBF Alert Up Miss0000" x="4211" y="2127" width="947" height="728"/>
+	<SubTexture name="CBF Alert Up Miss0001" x="5158" y="2127" width="947" height="728"/>
+	<SubTexture name="CBF Alert Up Miss0002" x="5158" y="2127" width="947" height="728"/>
+	<SubTexture name="CBF Alert Up Miss0003" x="6105" y="2127" width="947" height="728"/>
+	<SubTexture name="CBF Alert Up Miss0004" x="6105" y="2127" width="947" height="728"/>
+	<SubTexture name="CBF Alert Up Miss0005" x="7052" y="2127" width="947" height="728"/>
+	<SubTexture name="CBF Alert Up Miss0006" x="7052" y="2127" width="947" height="728"/>
+	<SubTexture name="CBF Alert Up Miss0007" x="0" y="2855" width="947" height="728"/>
+</TextureAtlas>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="cg-choke3.png" width="3649" height="3578">
+	<SubTexture name="cg-choke3 die0000" x="1058" y="2991" width="817" height="586" frameX="-369" frameY="-580" frameWidth="1846" frameHeight="1169"/>
+	<SubTexture name="cg-choke3 die0001" x="2047" y="2262" width="816" height="593" frameX="-367" frameY="-573" frameWidth="1846" frameHeight="1169"/>
+	<SubTexture name="cg-choke3 die0002" x="2737" y="741" width="782" height="630" frameX="-389" frameY="-536" frameWidth="1846" frameHeight="1169"/>
+	<SubTexture name="cg-choke3 die0003" x="2832" y="2881" width="782" height="611" frameX="-396" frameY="-555" frameWidth="1846" frameHeight="1169"/>
+	<SubTexture name="cg-choke3 die0004" x="2866" y="2262" width="782" height="616" frameX="-396" frameY="-550" frameWidth="1846" frameHeight="1169"/>
+	<SubTexture name="cg-choke3 die0005" x="2047" y="2858" width="782" height="616" frameX="-396" frameY="-550" frameWidth="1846" frameHeight="1169"/>
+	<SubTexture name="cg-choke3 spit0000" x="2687" y="1" width="919" height="737" frameX="-401" frameY="-409" frameWidth="1846" frameHeight="1169"/>
+	<SubTexture name="cg-choke3 spit0001" x="1058" y="2252" width="986" height="736" frameX="-435" frameY="-410" frameWidth="1846" frameHeight="1169"/>
+	<SubTexture name="cg-choke3 spit0002" x="1" y="1502" width="1141" height="740" frameX="-423" frameY="-406" frameWidth="1846" frameHeight="1169"/>
+	<SubTexture name="cg-choke3 spit0003" x="1453" y="1" width="1231" height="742" frameX="-420" frameY="-404" frameWidth="1846" frameHeight="1169"/>
+	<SubTexture name="cg-choke3 spit0004" x="1396" y="752" width="1338" height="745" frameX="-401" frameY="-400" frameWidth="1846" frameHeight="1169"/>
+	<SubTexture name="cg-choke3 spit0005" x="1" y="752" width="1392" height="747" frameX="-397" frameY="-398" frameWidth="1846" frameHeight="1169"/>
+	<SubTexture name="cg-choke3 spit0006" x="1" y="1" width="1449" height="748" frameX="-395" frameY="-397" frameWidth="1846" frameHeight="1169"/>
+	<SubTexture name="cg-choke3 spit0007" x="1396" y="1500" width="1256" height="749" frameX="-395" frameY="-396" frameWidth="1846" frameHeight="1169"/>
+	<SubTexture name="cg-choke3 spit0008" x="1" y="2245" width="1054" height="752" frameX="-395" frameY="-393" frameWidth="1846" frameHeight="1169"/>
+	<SubTexture name="cg-choke3 spit0009" x="2655" y="1500" width="782" height="759" frameX="-395" frameY="-386" frameWidth="1846" frameHeight="1169"/>
+	<SubTexture name="cg-choke3 idle0000" x="2047" y="2858" width="782" height="616" frameX="-396" frameY="-550" frameWidth="1846" frameHeight="1169"/>
+</TextureAtlas>

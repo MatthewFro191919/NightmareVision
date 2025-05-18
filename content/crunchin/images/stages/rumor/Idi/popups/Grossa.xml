@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Grossa.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 3 instance 10001" x="0" y="0" width="204" height="6" frameX="-309" frameY="-243" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10002" x="204" y="0" width="660" height="212" frameX="-82" frameY="-139" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10003" x="864" y="0" width="825" height="488"/>
+	<SubTexture name="Symbol 3 instance 10004" x="1689" y="0" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10005" x="2498" y="0" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10006" x="0" y="488" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10007" x="809" y="488" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10008" x="1616" y="488" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10009" x="2423" y="488" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10010" x="3230" y="488" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10011" x="0" y="934" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10012" x="807" y="934" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10013" x="1614" y="934" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10014" x="2421" y="934" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10015" x="3228" y="934" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10016" x="0" y="1380" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10017" x="809" y="1380" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10018" x="1618" y="1380" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10019" x="2427" y="1380" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10020" x="3236" y="1380" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10021" x="0" y="1826" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10022" x="809" y="1826" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10023" x="1618" y="1826" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10024" x="2425" y="1826" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10025" x="3232" y="1826" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10026" x="0" y="2272" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10027" x="807" y="2272" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10028" x="1614" y="2272" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10029" x="2421" y="2272" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10030" x="3228" y="2272" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10031" x="0" y="2717" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10032" x="809" y="2717" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10033" x="1618" y="2717" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10034" x="2427" y="2717" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10035" x="3236" y="2717" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10036" x="0" y="3163" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10037" x="809" y="3163" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10038" x="1618" y="3163" width="809" height="446" frameX="-8" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10039" x="2427" y="3163" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10040" x="3234" y="3163" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10041" x="0" y="3609" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10042" x="807" y="3609" width="807" height="445" frameX="-9" frameY="-21" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10043" x="1614" y="3609" width="684" height="231" frameX="-70" frameY="-129" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10044" x="2298" y="3609" width="320" height="52" frameX="-251" frameY="-219" frameWidth="825" frameHeight="488"/>
+	<SubTexture name="Symbol 3 instance 10045" x="2618" y="3609" width="13" height="7" frameX="-405" frameY="-242" frameWidth="825" frameHeight="488"/>
+</TextureAtlas>

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				158,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "epicfloorleft instance"
+		},
+		{
+			"offsets": [
+				19,
+				-58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "epicfloordown instance"
+		},
+		{
+			"offsets": [
+				19,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "epicfloorup instance"
+		},
+		{
+			"offsets": [
+				6,
+				-54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "epicfloorright instance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "epicfaceclub instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-90
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "epicfloordowmmiss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-62
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "epicfloorleftmiss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-25
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "epicfloorupmiss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-67
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "epicfloorrightmiss instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/epicclub",
+	"position": [
+		-90,
+		110
+	],
+	"healthicon": "epicface",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		229,
+		94
+	],
+	"camera_position": [
+		10,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

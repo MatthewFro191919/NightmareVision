@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ex2mu-blast.png">
+    <SubTexture name="exitButtonblast normal0000" x="0" y="0" width="563" height="114" frameX="0" frameY="0" frameWidth="563" frameHeight="114" />
+    <SubTexture name="exitButtonblast hover0000" x="0" y="114" width="563" height="114" frameX="0" frameY="0" frameWidth="563" frameHeight="114" />
+</TextureAtlas>

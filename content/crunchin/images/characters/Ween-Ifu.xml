@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Ween-Ifu.png" width="7937" height="1002">
+	<SubTexture name="Ween-Ifu idle0000" x="1" y="250" width="778" height="293" rotated="true" frameX="-87" frameY="-110" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu idle0001" x="782" y="275" width="777" height="293" rotated="true" frameX="-87" frameY="-111" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu idle0002" x="5446" y="1" width="779" height="280" rotated="true" frameX="-100" frameY="-109" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu idle0003" x="3078" y="1" width="782" height="273" rotated="true" frameX="-112" frameY="-106" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu idle0004" x="1502" y="1" width="784" height="271" rotated="true" frameX="-115" frameY="-104" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu idle0005" x="2289" y="1" width="786" height="271" rotated="true" frameX="-117" frameY="-102" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu left0000" x="6336" y="628" width="760" height="372" rotated="true" frameX="-6" frameY="-132" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu left0001" x="7099" y="628" width="764" height="373" rotated="true" frameX="-5" frameY="-128" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu left0002" x="5566" y="619" width="767" height="359" rotated="true" frameX="-19" frameY="-125" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu left0003" x="4011" y="612" width="766" height="351" rotated="true" frameX="-28" frameY="-126" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu singleftmiss0000" x="1" y="1" width="752" height="245" rotated="true" frameX="-55" frameY="-140" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu singleftmiss0001" x="756" y="1" width="743" height="246" rotated="true" frameX="-55" frameY="-140" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu down0000" x="4790" y="284" width="740" height="328" rotated="true" frameX="-57" frameY="-148" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu down0001" x="6301" y="285" width="744" height="331" rotated="true" frameX="-54" frameY="-144" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu down0002" x="1" y="546" width="754" height="335" rotated="true" frameX="-49" frameY="-134" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu down0003" x="758" y="571" width="758" height="335" rotated="true" frameX="-48" frameY="-130" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu singdownmiss0000" x="5533" y="285" width="765" height="329" rotated="true" frameX="-44" frameY="-124" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu singdownmiss0001" x="7048" y="294" width="762" height="331" rotated="true" frameX="-41" frameY="-122" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu right0000" x="1519" y="586" width="781" height="345" rotated="true" frameX="-136" frameY="-110" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu right0001" x="4780" y="617" width="783" height="350" rotated="true" frameX="-131" frameY="-108" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu right0002" x="4007" y="283" width="780" height="326" rotated="true" frameX="-128" frameY="-111" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu right0003" x="1562" y="275" width="775" height="308" rotated="true" frameX="-131" frameY="-116" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu singrightmiss0000" x="4654" y="1" width="789" height="279" rotated="true" frameX="-141" frameY="-118" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu singrightmiss0001" x="3863" y="1" width="788" height="278" rotated="true" frameX="-138" frameY="-122" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu up0000" x="2303" y="592" width="852" height="341" rotated="true" frameX="-38" frameY="-49" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu up0001" x="3158" y="612" width="850" height="347" rotated="true" frameX="-32" frameY="-51" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu up0002" x="3168" y="282" width="836" height="325" rotated="true" frameX="-54" frameY="-65" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu up0003" x="2340" y="277" width="825" height="312" rotated="true" frameX="-67" frameY="-77" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu singupmiss0000" x="7073" y="1" width="863" height="290" rotated="true" frameX="-69" frameY="-57" frameWidth="504" frameHeight="954"/>
+	<SubTexture name="Ween-Ifu singupmiss0001" x="6228" y="1" width="842" height="281" rotated="true" frameX="-73" frameY="-79" frameWidth="504" frameHeight="954"/>
+</TextureAtlas>

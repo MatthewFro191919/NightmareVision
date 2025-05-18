@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="OrderupStageDerp.png"><SubTexture name="OrderupStageDerp bop0000" x="0" y="0" width="484" height="684" frameX="0" frameY="0" frameWidth="484" frameHeight="684" />
+<SubTexture name="OrderupStageDerp bop0001" x="484" y="0" width="484" height="684" frameX="0" frameY="0" frameWidth="484" frameHeight="684" />
+<SubTexture name="OrderupStageDerp bop0002" x="0" y="684" width="484" height="684" frameX="0" frameY="0" frameWidth="484" frameHeight="684" />
+<SubTexture name="OrderupStageDerp bop0003" x="484" y="684" width="484" height="684" frameX="0" frameY="0" frameWidth="484" frameHeight="684" />
+<SubTexture name="OrderupStageDerp bop0004" x="0" y="1368" width="484" height="684" frameX="0" frameY="0" frameWidth="484" frameHeight="684" />
+<SubTexture name="OrderupStageDerp bop0005" x="484" y="1368" width="484" height="684" frameX="0" frameY="0" frameWidth="484" frameHeight="684" />
+</TextureAtlas>

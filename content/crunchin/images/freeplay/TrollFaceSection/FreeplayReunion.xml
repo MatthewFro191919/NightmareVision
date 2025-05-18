@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FreeplayReunion.png"><SubTexture name="FreeplayReunion select0000" x="0" y="0" width="354" height="125" frameX="0" frameY="0" frameWidth="354" frameHeight="125" />
+<SubTexture name="FreeplayReunion normal0000" x="0" y="125" width="354" height="125" frameX="0" frameY="0" frameWidth="354" frameHeight="125" />
+</TextureAtlas>

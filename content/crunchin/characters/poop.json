@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle copy 2"
+		},
+		{
+			"offsets": [
+				174,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dino",
+			"loop": false,
+			"name": "poopmaness"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/poop",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

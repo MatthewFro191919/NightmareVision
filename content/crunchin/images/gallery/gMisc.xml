@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gMisc.png"><SubTexture name="gMisc unselect0000" x="0" y="0" width="541" height="438" frameX="0" frameY="0" frameWidth="541" frameHeight="438" />
+<SubTexture name="gMisc select0000" x="0" y="438" width="541" height="438" frameX="0" frameY="0" frameWidth="541" frameHeight="438" />
+</TextureAtlas>

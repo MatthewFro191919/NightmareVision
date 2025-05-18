@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "epicdanceleft instance"
+		},
+		{
+			"offsets": [
+				31,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "epicdanceright instance"
+		},
+		{
+			"offsets": [
+				-19,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "epicup instance"
+		},
+		{
+			"offsets": [
+				3,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "epicdown instance"
+		},
+		{
+			"offsets": [
+				-26,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "epicright instance"
+		},
+		{
+			"offsets": [
+				45,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "epicleft instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				16
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "epicupmiss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "epicdownmiss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-8
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "epicrightmiss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "epicleftmiss instance",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/ravegirl",
+	"position": [
+		-70,
+		120
+	],
+	"healthicon": "epicface",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		229,
+		94
+	],
+	"camera_position": [
+		60,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

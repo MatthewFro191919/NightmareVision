@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="hijacked-bf.png" width="2633" height="2634">
+	<SubTexture name="hijacked-bf idle0000" x="2074" y="499" width="503" height="492" frameX="-177" frameY="-180" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf idle0001" x="2022" y="1" width="504" height="495" frameX="-176" frameY="-179" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf idle0002" x="1515" y="1" width="504" height="506" frameX="-176" frameY="-171" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf idle0003" x="1074" y="519" width="504" height="514" frameX="-176" frameY="-164" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf idle0004" x="1008" y="1" width="504" height="515" frameX="-176" frameY="-163" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf singDOWN0000" x="1" y="1574" width="477" height="531" frameX="-192" frameY="-204" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf singDOWN0001" x="1026" y="1544" width="530" height="482" rotated="true" frameX="-187" frameY="-190" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf singDOWN0002" x="1581" y="510" width="490" height="520" frameX="-179" frameY="-177" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf singUP0000" x="1" y="1" width="503" height="538" frameX="-183" frameY="-149" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf singUP0001" x="1" y="546" width="528" height="504" rotated="true" frameX="-181" frameY="-151" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf singUP0002" x="1071" y="1038" width="523" height="503" rotated="true" frameX="-178" frameY="-158" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf singRIGHT0000" x="1538" y="2037" width="536" height="458" frameX="-199" frameY="-155" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf singRIGHT0001" x="2077" y="2037" width="533" height="452" frameX="-193" frameY="-157" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf singRIGHT0002" x="2103" y="994" width="529" height="451" frameX="-180" frameY="-159" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf singLEFT0000" x="532" y="546" width="539" height="489" rotated="true" frameX="-161" frameY="-175" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf singLEFT0001" x="532" y="1038" width="536" height="491" rotated="true" frameX="-168" frameY="-173" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf singLEFT0002" x="504" y="1532" width="519" height="496" rotated="true" frameX="-174" frameY="-166" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf downmiss0000" x="1" y="1053" width="500" height="518" frameX="-182" frameY="-180" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf downmiss0001" x="1559" y="1544" width="520" height="490" rotated="true" frameX="-179" frameY="-177" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf upmiss0000" x="507" y="1" width="498" height="542" frameX="-181" frameY="-149" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf upmiss0001" x="1597" y="1033" width="503" height="506" frameX="-178" frameY="-158" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf rightmiss0000" x="2082" y="1542" width="528" height="455" frameX="-198" frameY="-148" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf rightmiss0001" x="1" y="2108" width="443" height="525" rotated="true" frameX="-180" frameY="-159" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf leftmiss0000" x="481" y="2031" width="517" height="485" rotated="true" frameX="-177" frameY="-170" frameWidth="1004" frameHeight="1004"/>
+	<SubTexture name="hijacked-bf leftmiss0001" x="1026" y="2029" width="509" height="496" rotated="true" frameX="-174" frameY="-166" frameWidth="1004" frameHeight="1004"/>
+</TextureAtlas>

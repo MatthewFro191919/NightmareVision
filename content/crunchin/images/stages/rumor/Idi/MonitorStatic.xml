@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MonitorStatic.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="StaticMonitors0000" x="3" y="3" width="1280" height="720"/>
+	<SubTexture name="StaticMonitors0001" x="1286" y="3" width="1280" height="720"/>
+	<SubTexture name="StaticMonitors0002" x="2569" y="3" width="1280" height="720"/>
+	<SubTexture name="StaticMonitors0003" x="2569" y="3" width="1280" height="720"/>
+	<SubTexture name="StaticMonitors0004" x="3" y="726" width="1280" height="720"/>
+	<SubTexture name="StaticMonitors0005" x="1286" y="726" width="1280" height="720"/>
+</TextureAtlas>

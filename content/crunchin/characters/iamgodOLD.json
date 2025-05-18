@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "IAMGOD left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IAMGOD idle"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "IAMGOD down"
+		},
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "IAMGOD up"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "IAMGOD right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "appear",
+			"indices": [],
+			"name": "IAMGOD appear"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/iamgod",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "iamgod",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		21,
+		81
+	],
+	"camera_position": [
+		-410,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

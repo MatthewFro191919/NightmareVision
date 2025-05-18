@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FreeplayThreat.png">
+<SubTexture name="FreeplayThreat hover0000" x="0" y="0" width="510" height="768" frameX="0" frameY="200" frameWidth="510" frameHeight="568" />
+<SubTexture name="FreeplayThreat normal0000" x="510" y="0" width="510" height="768" frameX="0" frameY="200" frameWidth="510" frameHeight="568" />
+<SubTexture name="FreeplayThreat played hover0000" x="0" y="768" width="510" height="768" frameX="0" frameY="200" frameWidth="510" frameHeight="568" />
+<SubTexture name="FreeplayThreat played normal0000" x="510" y="768" width="510" height="768" frameX="0" frameY="200" frameWidth="510" frameHeight="568" />
+</TextureAtlas>

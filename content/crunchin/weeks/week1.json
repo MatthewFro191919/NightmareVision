@@ -1,0 +1,49 @@
+{
+	"storyName": "he will never be funkin'",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "livingroom",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"crunch",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"crunch",
+			"curiouscrunch",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"milkyway",
+			"curiouscrunch",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"choke-a-lot",
+			"laughoutloud",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

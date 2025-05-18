@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "TrolljakAlert-attack"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "startattack",
+			"loop": false,
+			"name": "TrolljakAlert-attack startattack"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attackloop",
+			"loop": true,
+			"name": "TrolljakAlert-attack attackloop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TrolljakAlert-attack",
+	"position": [
+		-100,
+		-100
+	],
+	"healthicon": "trolljak2",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		50,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

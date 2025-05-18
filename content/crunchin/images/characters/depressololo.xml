@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="depressololo.png" width="2466" height="2494">
+	<SubTexture name="depressololo idle0000" x="653" y="1699" width="646" height="328" rotated="true" frameX="-68" frameY="-70" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo idle0001" x="2076" y="1276" width="342" height="616" frameX="-67" frameY="-100" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo idle0002" x="619" y="2111" width="614" height="337" rotated="true" frameX="-72" frameY="-102" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo idle0003" x="2068" y="654" width="340" height="619" frameX="-73" frameY="-97" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo idle0004" x="1323" y="1369" width="339" height="625" frameX="-73" frameY="-91" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo idle0005" x="703" y="710" width="637" height="330" rotated="true" frameX="-75" frameY="-79" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo idle0006" x="674" y="1369" width="646" height="325" rotated="true" frameX="-74" frameY="-70" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo idle0007" x="1" y="1377" width="658" height="319" rotated="true" frameX="-77" frameY="-58" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo idle0008" x="1346" y="676" width="320" height="660" frameX="-76" frameY="-56" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo right0000" x="1031" y="1" width="326" height="672" frameX="-88" frameY="-53" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo right0001" x="1" y="1050" width="670" height="324" rotated="true" frameX="-90" frameY="-55" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo right0002" x="674" y="1050" width="669" height="316" rotated="true" frameX="-84" frameY="-56" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo right0003" x="1360" y="1" width="311" height="669" frameX="-81" frameY="-56" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo up0000" x="1" y="1" width="342" height="715" frameX="-54" frameY="-2" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo up0001" x="346" y="1" width="346" height="714" frameX="-50" frameY="-3" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo up0002" x="695" y="1" width="333" height="706" frameX="-63" frameY="-11" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo up0003" x="1" y="719" width="699" height="328" rotated="true" frameX="-68" frameY="-18" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo left0000" x="1669" y="1306" width="404" height="648" frameX="-5" frameY="-58" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo left0001" x="1" y="1699" width="649" height="409" rotated="true" frameX="-2" frameY="-57" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo left0002" x="1674" y="1" width="403" height="650" frameX="-11" frameY="-56" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo left0003" x="1674" y="654" width="391" height="649" frameX="-22" frameY="-57" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo down0000" x="1844" y="1957" width="602" height="380" rotated="true" frameX="-20" frameY="-115" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo down0001" x="1236" y="2030" width="605" height="379" rotated="true" frameX="-24" frameY="-112" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo down0002" x="1" y="2111" width="615" height="382" rotated="true" frameX="-18" frameY="-102" frameWidth="416" frameHeight="727"/>
+	<SubTexture name="depressololo down0003" x="2080" y="1" width="385" height="620" frameX="-12" frameY="-97" frameWidth="416" frameHeight="727"/>
+</TextureAtlas>

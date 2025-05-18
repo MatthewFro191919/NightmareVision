@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="djepic.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="djdanceleft0000" x="0" y="0" width="603" height="401"/>
+	<SubTexture name="djdanceleft0001" x="0" y="0" width="603" height="401"/>
+	<SubTexture name="djdanceleft0002" x="603" y="0" width="603" height="401"/>
+	<SubTexture name="djdanceleft0003" x="603" y="0" width="603" height="401"/>
+	<SubTexture name="djdanceleft0004" x="1206" y="0" width="603" height="401"/>
+	<SubTexture name="djdanceleft0005" x="1206" y="0" width="603" height="401"/>
+	<SubTexture name="djdanceleft0006" x="0" y="401" width="603" height="401"/>
+	<SubTexture name="djdanceleft0007" x="0" y="401" width="603" height="401"/>
+	<SubTexture name="djdanceright0000" x="603" y="401" width="603" height="401"/>
+	<SubTexture name="djdanceright0001" x="603" y="401" width="603" height="401"/>
+	<SubTexture name="djdanceright0002" x="1206" y="401" width="603" height="401"/>
+	<SubTexture name="djdanceright0003" x="1206" y="401" width="603" height="401"/>
+	<SubTexture name="djdanceright0004" x="0" y="802" width="603" height="401"/>
+	<SubTexture name="djdanceright0005" x="0" y="802" width="603" height="401"/>
+	<SubTexture name="djdanceright0006" x="603" y="802" width="603" height="401"/>
+	<SubTexture name="djdanceright0007" x="603" y="802" width="603" height="401"/>
+</TextureAtlas>

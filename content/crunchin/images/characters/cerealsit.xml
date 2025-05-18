@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cerealsit.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cerealidle instance 10000" x="0" y="0" width="156" height="259"/>
+	<SubTexture name="cerealidle instance 10001" x="156" y="0" width="156" height="259"/>
+	<SubTexture name="cerealidle instance 10002" x="312" y="0" width="156" height="259"/>
+	<SubTexture name="cerealidle instance 10003" x="468" y="0" width="156" height="259"/>
+	<SubTexture name="cerealidle instance 10004" x="624" y="0" width="156" height="259"/>
+	<SubTexture name="cerealidle instance 10005" x="780" y="0" width="156" height="259"/>
+	<SubTexture name="cerealidle instance 10006" x="936" y="0" width="156" height="259"/>
+	<SubTexture name="cerealidle instance 10007" x="1092" y="0" width="156" height="259"/>
+	<SubTexture name="cerealidle instance 10008" x="1248" y="0" width="156" height="259"/>
+	<SubTexture name="cerealidle instance 10009" x="1404" y="0" width="156" height="259"/>
+	<SubTexture name="cerealnerv-down instance 10000" x="1560" y="0" width="158" height="234"/>
+	<SubTexture name="cerealnerv-down instance 10001" x="1560" y="0" width="158" height="234"/>
+	<SubTexture name="cerealnerv-down instance 10002" x="1718" y="0" width="158" height="234"/>
+	<SubTexture name="cerealnerv-down instance 10003" x="1718" y="0" width="158" height="234"/>
+	<SubTexture name="cerealnerv-down instance 10004" x="1876" y="0" width="158" height="234"/>
+	<SubTexture name="cerealnerv-down instance 10005" x="1876" y="0" width="158" height="234"/>
+	<SubTexture name="cerealnerv-down instance 10006" x="2034" y="0" width="158" height="234"/>
+	<SubTexture name="cerealnerv-down instance 10007" x="2034" y="0" width="158" height="234"/>
+	<SubTexture name="cerealnerv-left instance 10000" x="2192" y="0" width="173" height="257"/>
+	<SubTexture name="cerealnerv-left instance 10001" x="2365" y="0" width="173" height="257"/>
+	<SubTexture name="cerealnerv-left instance 10002" x="2538" y="0" width="173" height="257"/>
+	<SubTexture name="cerealnerv-left instance 10003" x="2711" y="0" width="173" height="257"/>
+	<SubTexture name="cerealnerv-left instance 10004" x="0" y="259" width="173" height="257"/>
+	<SubTexture name="cerealnerv-left instance 10005" x="173" y="259" width="173" height="257"/>
+	<SubTexture name="cerealnerv-left instance 10006" x="346" y="259" width="173" height="257"/>
+	<SubTexture name="cerealnerv-left instance 10007" x="519" y="259" width="173" height="257"/>
+	<SubTexture name="cerealnerv-right instance 10000" x="692" y="259" width="160" height="251"/>
+	<SubTexture name="cerealnerv-right instance 10001" x="692" y="259" width="160" height="251"/>
+	<SubTexture name="cerealnerv-right instance 10002" x="852" y="259" width="160" height="251"/>
+	<SubTexture name="cerealnerv-right instance 10003" x="852" y="259" width="160" height="251"/>
+	<SubTexture name="cerealnerv-right instance 10004" x="1012" y="259" width="160" height="251"/>
+	<SubTexture name="cerealnerv-right instance 10005" x="1012" y="259" width="160" height="251"/>
+	<SubTexture name="cerealnerv-right instance 10006" x="1172" y="259" width="160" height="251"/>
+	<SubTexture name="cerealnerv-right instance 10007" x="1172" y="259" width="160" height="251"/>
+	<SubTexture name="cerealnerv-up instance 10000" x="1332" y="259" width="139" height="263"/>
+	<SubTexture name="cerealnerv-up instance 10001" x="1332" y="259" width="139" height="263"/>
+	<SubTexture name="cerealnerv-up instance 10002" x="1471" y="259" width="139" height="263"/>
+	<SubTexture name="cerealnerv-up instance 10003" x="1471" y="259" width="139" height="263"/>
+	<SubTexture name="cerealnerv-up instance 10004" x="1610" y="259" width="139" height="263"/>
+	<SubTexture name="cerealnerv-up instance 10005" x="1610" y="259" width="139" height="263"/>
+	<SubTexture name="cerealnerv-up instance 10006" x="1749" y="259" width="139" height="263"/>
+	<SubTexture name="cerealnerv-up instance 10007" x="1749" y="259" width="139" height="263"/>
+</TextureAtlas>

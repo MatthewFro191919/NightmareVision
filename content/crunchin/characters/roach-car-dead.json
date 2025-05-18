@@ -1,0 +1,60 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "RoachCarDie firstDeath",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				13
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "RoachCarDie deathConfirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				37,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"loop": false,
+			"name": "RoachCarDie deathLoop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RoachCarDie",
+	"position": [
+		0,
+		140
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		150,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

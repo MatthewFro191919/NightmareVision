@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Helleton idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Helleton left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Helleton down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Helleton up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Helleton right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/helleton",
+	"position": [
+		210,
+		200
+	],
+	"healthicon": "helleton",
+	"flip_x": false,
+	"healthbar_colors": [
+		226,
+		209,
+		175
+	],
+	"camera_position": [
+		120,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

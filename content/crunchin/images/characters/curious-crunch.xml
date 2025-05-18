@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="curious-crunch.png" width="3897" height="4574">
+	<SubTexture name="curious-crunch idle0000" x="2387" y="826" width="760" height="782" rotated="true" frameX="-73" frameY="-64" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch idle0001" x="3131" y="1611" width="734" height="799" rotated="true" frameX="-56" frameY="-90" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch idle0002" x="1" y="3135" width="732" height="792" rotated="true" frameX="-63" frameY="-92" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch idle0003" x="1552" y="3249" width="732" height="786" rotated="true" frameX="-69" frameY="-92" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch idle0004" x="3150" y="786" width="746" height="784" rotated="true" frameX="-71" frameY="-78" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch idle0005" x="2346" y="2374" width="782" height="758" frameX="-73" frameY="-66" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch idle0006" x="2387" y="826" width="760" height="782" rotated="true" frameX="-73" frameY="-64" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch idle0007" x="2387" y="826" width="760" height="782" rotated="true" frameX="-73" frameY="-64" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch right0000" x="2337" y="3135" width="768" height="754" frameX="-87" frameY="-70" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch right0001" x="3131" y="2413" width="756" height="769" rotated="true" frameX="-86" frameY="-68" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch right0002" x="1561" y="2482" width="773" height="764" frameX="-82" frameY="-60" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch right0003" x="1" y="2354" width="763" height="778" rotated="true" frameX="-77" frameY="-61" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch down0000" x="2287" y="3892" width="793" height="681" frameX="-62" frameY="-143" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch down0001" x="3108" y="3185" width="683" height="791" rotated="true" frameX="-64" frameY="-141" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch down0002" x="736" y="3251" width="785" height="700" frameX="-70" frameY="-124" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch down0003" x="3162" y="1" width="707" height="782" rotated="true" frameX="-73" frameY="-117" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch left0000" x="1" y="1" width="852" height="765" frameX="-3" frameY="-59" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch left0001" x="1" y="769" width="853" height="761" frameX="-2" frameY="-63" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch left0002" x="857" y="1" width="763" height="841" rotated="true" frameX="-14" frameY="-61" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch left0003" x="857" y="845" width="763" height="841" rotated="true" frameX="-14" frameY="-61" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch up0000" x="1623" y="1" width="775" height="822" frameX="-80" frameY="-2" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch up0001" x="1" y="1533" width="776" height="818" frameX="-79" frameY="-6" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch up0002" x="780" y="1689" width="778" height="801" frameX="-77" frameY="-23" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch up0003" x="1561" y="1689" width="782" height="790" frameX="-73" frameY="-34" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch chew0000" x="767" y="2493" width="782" height="755" frameX="-73" frameY="-69" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch chew0001" x="2401" y="1" width="758" height="782" rotated="true" frameX="-73" frameY="-66" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch chew0002" x="1623" y="826" width="761" height="782" rotated="true" frameX="-73" frameY="-63" frameWidth="857" frameHeight="826"/>
+	<SubTexture name="curious-crunch chew0003" x="2346" y="1611" width="782" height="760" frameX="-73" frameY="-64" frameWidth="857" frameHeight="826"/>
+</TextureAtlas>

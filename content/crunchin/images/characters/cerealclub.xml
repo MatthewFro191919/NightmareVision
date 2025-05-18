@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cerealclub.png"><SubTexture name="cerealclub down0000" x="0" y="0" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub down0001" x="435" y="0" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub down0002" x="870" y="0" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub down0003" x="1305" y="0" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub left0000" x="1740" y="0" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub left0001" x="0" y="394" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub left0002" x="435" y="394" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub left0003" x="870" y="394" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub right0000" x="1305" y="394" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub right0001" x="1740" y="394" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub right0002" x="0" y="788" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub right0003" x="435" y="788" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub up0000" x="870" y="788" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub up0001" x="1305" y="788" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub up0002" x="1740" y="788" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub up0003" x="0" y="1182" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub idle0000" x="435" y="1182" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub idle0001" x="870" y="1182" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub idle0002" x="1305" y="1182" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub idle0003" x="1740" y="1182" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub idle0004" x="0" y="1576" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub idle0005" x="435" y="1576" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub idle0006" x="870" y="1576" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub idle0007" x="1305" y="1576" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub idle0008" x="1740" y="1576" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+<SubTexture name="cerealclub idle0009" x="0" y="1970" width="435" height="394" frameX="0" frameY="0" frameWidth="435" frameHeight="394" />
+</TextureAtlas>

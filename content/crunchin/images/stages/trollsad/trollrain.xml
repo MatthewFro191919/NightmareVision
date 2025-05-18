@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trollrain.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RainFall0000" x="3" y="3" width="1280" height="720"/>
+	<SubTexture name="RainFall0001" x="3" y="3" width="1280" height="720"/>
+	<SubTexture name="RainFall0002" x="1286" y="3" width="1280" height="720"/>
+	<SubTexture name="RainFall0003" x="2569" y="3" width="1280" height="720"/>
+	<SubTexture name="RainFall0004" x="3" y="3" width="1280" height="720"/>
+	<SubTexture name="RainFall0005" x="3" y="726" width="1280" height="720"/>
+	<SubTexture name="RainFall0006" x="3" y="3" width="1280" height="720"/>
+	<SubTexture name="RainFall0007" x="3" y="3" width="1280" height="720"/>
+	<SubTexture name="RainFall0008" x="3" y="3" width="1280" height="720"/>
+	<SubTexture name="RainFall0009" x="3" y="3" width="1280" height="720"/>
+	<SubTexture name="RainFall0010" x="1286" y="726" width="1280" height="720"/>
+	<SubTexture name="RainFall0011" x="2569" y="726" width="1280" height="720"/>
+	<SubTexture name="RainFall0012" x="3" y="1449" width="1280" height="720"/>
+	<SubTexture name="RainFall0013" x="3" y="3" width="1280" height="720"/>
+	<SubTexture name="RainFall0014" x="1286" y="1449" width="1280" height="720"/>
+	<SubTexture name="RainFall0015" x="2569" y="1449" width="1280" height="720"/>
+	<SubTexture name="RainFall0016" x="3" y="2172" width="1280" height="720"/>
+	<SubTexture name="RainFall0017" x="3" y="3" width="1280" height="720"/>
+</TextureAtlas>
