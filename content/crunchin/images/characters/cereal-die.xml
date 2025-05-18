@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+Format:
+n  => name
+x  => x pos
+y  => y pos
+w  => width
+h  => height
+pX => x pos of the pivot point
+pY => y pos of the pivot point
+oX => x-corner offset
+oY => y-corner offset
+oW => original width
+oH => original height
+r => 'y' if sprite is rotated-->
+<TextureAtlas imagePath="cereal-die.png" width="8179" height="6764" scale="1" format="RGBA8888">
+  <sprite n="cg-choke idle0000" x="7338" y="2093" w="782" h="761" pX="0.5" pY="0.5" oX="395" oY="385" oW="1846" oH="1148"/>
+  <sprite n="cg-choke idle0001" x="1" y="1824" w="784" h="760" pX="0.5" pY="0.5" oX="393" oY="386" oW="1846" oH="1148"/>
+  <sprite n="cg-choke idle0002" x="3207" y="1206" w="786" h="756" pX="0.5" pY="0.5" oX="391" oY="390" oW="1846" oH="1148"/>
+  <sprite n="cg-choke idle0003" x="791" y="1147" w="788" h="732" pX="0.5" pY="0.5" oX="389" oY="414" oW="1846" oH="1148"/>
+  <sprite n="cg-choke idle0004" x="5947" y="565" w="790" h="728" pX="0.5" pY="0.5" oX="387" oY="418" oW="1846" oH="1148"/>
+  <sprite n="cg-choke idle0005" x="5153" y="564" w="791" h="726" pX="0.5" pY="0.5" oX="386" oY="420" oW="1846" oH="1148"/>
+  <sprite n="cg-choke idle0006" x="1" y="1091" w="787" h="730" pX="0.5" pY="0.5" oX="390" oY="416" oW="1846" oH="1148"/>
+  <sprite n="cg-choke idle0007" x="1" y="2587" w="782" h="761" pX="0.5" pY="0.5" oX="395" oY="385" oW="1846" oH="1148"/>
+  <sprite n="cg-choke idle0008" x="1" y="4116" w="782" h="771" pX="0.5" pY="0.5" oX="395" oY="375" oW="1846" oH="1148"/>
+  <sprite n="cg-choke idle0009" x="7066" y="3615" w="782" h="768" pX="0.5" pY="0.5" oX="395" oY="378" oW="1846" oH="1148"/>
+  <sprite n="cg-choke idle0010" x="3128" y="2721" w="782" h="761" pX="0.5" pY="0.5" oX="395" oY="385" oW="1846" oH="1148"/>
+  <sprite n="cg-choke idle0011" x="4940" y="3547" w="782" h="765" pX="0.5" pY="0.5" oX="395" oY="381" oW="1846" oH="1148"/>
+  <sprite n="cg-choke idle0012" x="2896" y="3485" w="782" h="763" pX="0.5" pY="0.5" oX="395" oY="383" oW="1846" oH="1148"/>
+  <sprite n="cg-choke idle0013" x="1" y="3351" w="782" h="762" pX="0.5" pY="0.5" oX="395" oY="384" oW="1846" oH="1148"/>
+  <sprite n="cg-choke singRIGHT0000" x="1582" y="1152" w="745" h="810" pX="0.5" pY="0.5" oX="432" oY="335" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke singRIGHT0001" x="2395" y="1184" w="745" h="809" pX="0.5" pY="0.5" oX="432" oY="336" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke singRIGHT0002" x="3134" y="1965" w="753" h="804" pX="0.5" pY="0.5" oX="424" oY="341" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke singRIGHT0003" x="6686" y="4386" w="773" h="801" pX="0.5" pY="0.5" oX="404" oY="344" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke singRIGHT0004" x="1" y="4890" w="782" h="803" pX="0.5" pY="0.5" oX="395" oY="342" oW="1846" oH="1148"/>
+  <sprite n="cg-choke right-alt0000" x="6113" y="1350" w="919" h="737" pX="0.5" pY="0.5" oX="401" oY="409" oW="1846" oH="1148"/>
+  <sprite n="cg-choke right-alt0001" x="5124" y="1296" w="986" h="736" pX="0.5" pY="0.5" oX="435" oY="410" oW="1846" oH="1148"/>
+  <sprite n="cg-choke right-alt0002" x="7035" y="1350" w="1141" h="740" pX="0.5" pY="0.5" oX="423" oY="406" oW="1846" oH="1148"/>
+  <sprite n="cg-choke right-alt0003" x="6104" y="2093" w="1231" h="742" pX="0.5" pY="0.5" oX="420" oY="404" oW="1846" oH="1148"/>
+  <sprite n="cg-choke right-alt0004" x="5725" y="3594" w="1338" h="745" pX="0.5" pY="0.5" oX="401" oY="400" oW="1846" oH="1148"/>
+  <sprite n="cg-choke right-alt0005" x="2781" y="4274" w="1392" h="747" pX="0.5" pY="0.5" oX="397" oY="398" oW="1846" oH="1148"/>
+  <sprite n="cg-choke right-alt0006" x="4176" y="4315" w="1449" h="748" pX="0.5" pY="0.5" oX="395" oY="397" oW="1846" oH="1148"/>
+  <sprite n="cg-choke right-alt0007" x="3681" y="3522" w="1256" h="749" pX="0.5" pY="0.5" oX="395" oY="396" oW="1846" oH="1148"/>
+  <sprite n="cg-choke right-alt0008" x="3913" y="2767" w="1054" h="752" pX="0.5" pY="0.5" oX="395" oY="393" oW="1846" oH="1148"/>
+  <sprite n="cg-choke right-alt0009" x="6740" y="565" w="782" h="759" pX="0.5" pY="0.5" oX="395" oY="386" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke singLEFT0000" x="1" y="5708" w="936" h="790" pX="0.5" pY="0.5" oX="241" oY="356" oW="1846" oH="1148"/>
+  <sprite n="cg-choke singLEFT0001" x="940" y="5752" w="938" h="791" pX="0.5" pY="0.5" oX="239" oY="355" oW="1846" oH="1148"/>
+  <sprite n="cg-choke singLEFT0002" x="1716" y="4961" w="902" h="788" pX="0.5" pY="0.5" oX="275" oY="358" oW="1846" oH="1148"/>
+  <sprite n="cg-choke singLEFT0003" x="1881" y="5809" w="842" h="793" pX="0.5" pY="0.5" oX="335" oY="353" oW="1846" oH="1148"/>
+  <sprite n="cg-choke singLEFT0004" x="2726" y="5809" w="805" h="793" pX="0.5" pY="0.5" oX="372" oY="353" oW="1846" oH="1148"/>
+  <sprite n="cg-choke left-alt0000" x="1957" y="2673" w="1168" h="747" pX="0.5" pY="0.5" oX="9" oY="398" oW="1846" oH="1148"/>
+  <sprite n="cg-choke left-alt0001" x="786" y="2641" w="1168" h="743" pX="0.5" pY="0.5" oX="9" oY="402" oW="1846" oH="1148"/>
+  <sprite n="cg-choke left-alt0002" x="788" y="1900" w="1175" h="738" pX="0.5" pY="0.5" oX="2" oY="407" oW="1846" oH="1148"/>
+  <sprite n="cg-choke left-alt0003" x="1966" y="1932" w="1165" h="738" pX="0.5" pY="0.5" oX="12" oY="407" oW="1846" oH="1148"/>
+  <sprite n="cg-choke left-alt0004" x="3941" y="2022" w="1157" h="742" pX="0.5" pY="0.5" oX="20" oY="403" oW="1846" oH="1148"/>
+  <sprite n="cg-choke left-alt0005" x="4007" y="562" w="1143" h="725" pX="0.5" pY="0.5" oX="34" oY="420" oW="1846" oH="1148"/>
+  <sprite n="cg-choke left-alt0006" x="3996" y="1290" w="1125" h="729" pX="0.5" pY="0.5" oX="52" oY="416" oW="1846" oH="1148"/>
+  <sprite n="cg-choke left-alt0007" x="6097" y="2838" w="1103" h="753" pX="0.5" pY="0.5" oX="74" oY="392" oW="1846" oH="1148"/>
+  <sprite n="cg-choke left-alt0008" x="786" y="4150" w="1066" h="770" pX="0.5" pY="0.5" oX="111" oY="375" oW="1846" oH="1148"/>
+  <sprite n="cg-choke left-alt0009" x="5628" y="4342" w="1055" h="772" pX="0.5" pY="0.5" oX="122" oY="373" oW="1846" oH="1148"/>
+  <sprite n="cg-choke singDOWN0000" x="792" y="526" w="811" h="618" pX="0.5" pY="0.5" oX="366" oY="528" oW="1846" oH="1148"/>
+  <sprite n="cg-choke singDOWN0001" x="1606" y="527" w="810" h="622" pX="0.5" pY="0.5" oX="367" oY="524" oW="1846" oH="1148"/>
+  <sprite n="cg-choke singDOWN0002" x="2419" y="552" w="796" h="629" pX="0.5" pY="0.5" oX="381" oY="517" oW="1846" oH="1148"/>
+  <sprite n="cg-choke singDOWN0003" x="3218" y="561" w="786" h="642" pX="0.5" pY="0.5" oX="391" oY="504" oW="1846" oH="1148"/>
+  <sprite n="cg-choke singDOWN0004" x="7502" y="1" w="782" h="646" pX="0.5" pY="0.5" oX="395" oY="500" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke down-alt0000" x="1" y="1" w="903" h="522" pX="0.5" pY="0.5" oX="367" oY="624" oW="1846" oH="1148"/>
+  <sprite n="cg-choke down-alt0001" x="1798" y="1" w="910" h="523" pX="0.5" pY="0.5" oX="364" oY="623" oW="1846" oH="1148"/>
+  <sprite n="cg-choke down-alt0002" x="907" y="1" w="888" h="522" pX="0.5" pY="0.5" oX="373" oY="624" oW="1846" oH="1148"/>
+  <sprite n="cg-choke down-alt0003" x="2711" y="1" w="844" h="548" pX="0.5" pY="0.5" oX="377" oY="598" oW="1846" oH="1148"/>
+  <sprite n="cg-choke down-alt0004" x="5926" y="1" w="783" h="560" pX="0.5" pY="0.5" oX="419" oY="586" oW="1846" oH="1148"/>
+  <sprite n="cg-choke down-alt0005" x="4346" y="1" w="787" h="558" pX="0.5" pY="0.5" oX="400" oY="588" oW="1846" oH="1148"/>
+  <sprite n="cg-choke down-alt0006" x="1" y="526" w="788" h="562" pX="0.5" pY="0.5" oX="410" oY="584" oW="1846" oH="1148"/>
+  <sprite n="cg-choke down-alt0007" x="3558" y="1" w="785" h="557" pX="0.5" pY="0.5" oX="407" oY="589" oW="1846" oH="1148"/>
+  <sprite n="cg-choke down-alt0008" x="6712" y="1" w="787" h="561" pX="0.5" pY="0.5" oX="407" oY="585" oW="1846" oH="1148"/>
+  <sprite n="cg-choke down-alt0009" x="5136" y="1" w="787" h="558" pX="0.5" pY="0.5" oX="407" oY="588" oW="1846" oH="1148"/>
+  <sprite n="cg-choke singUP0000" x="1893" y="3423" w="761" h="1000" pX="0.5" pY="0.5" oX="416" oY="146" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke singUP0001" x="5101" y="2035" w="754" h="1000" pX="0.5" pY="0.5" oX="423" oY="146" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke singUP0002" x="7203" y="2857" w="755" h="975" pX="0.5" pY="0.5" oX="422" oY="171" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke singUP0003" x="1855" y="4187" w="771" h="923" pX="0.5" pY="0.5" oX="406" oY="223" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke singUP0004" x="786" y="4923" w="782" h="927" pX="0.5" pY="0.5" oX="395" oY="219" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke up-alt0000" x="4681" y="5903" w="814" h="1130" pX="0.5" pY="0.5" oX="363" oY="16" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke up-alt0001" x="5814" y="5949" w="814" h="1126" pX="0.5" pY="0.5" oX="363" oY="20" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke up-alt0002" x="3534" y="5851" w="795" h="1144" pX="0.5" pY="0.5" oX="382" oY="2" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke up-alt0003" x="2621" y="5024" w="782" h="1129" pX="0.5" pY="0.5" oX="395" oY="17" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke up-alt0004" x="4970" y="2792" w="752" h="1124" pX="0.5" pY="0.5" oX="425" oY="22" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke up-alt0005" x="786" y="3387" w="760" h="1104" pX="0.5" pY="0.5" oX="417" oY="42" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke up-alt0006" x="5963" y="5162" w="784" h="1088" pX="0.5" pY="0.5" oX="393" oY="58" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke up-alt0007" x="7054" y="5162" w="786" h="1089" pX="0.5" pY="0.5" oX="391" oY="57" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke up-alt0008" x="4858" y="5117" w="783" h="1102" pX="0.5" pY="0.5" oX="394" oY="44" oW="1846" oH="1148" r="y"/>
+  <sprite n="cg-choke up-alt0009" x="3753" y="5066" w="782" h="1102" pX="0.5" pY="0.5" oX="395" oY="44" oW="1846" oH="1148" r="y"/>
+</TextureAtlas>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nextbutton.png"><SubTexture name="BeginSong unselect0000" x="0" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="BeginSong select0000" x="0" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+</TextureAtlas>

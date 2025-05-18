@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jack.png"><SubTexture name="jack stabtime0000" x="0" y="0" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="jack stabtime0001" x="604" y="0" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="jack stabtime0002" x="1208" y="0" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="jack stabtime0003" x="0" y="724" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="jack stabtime0004" x="604" y="724" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="jack stabtime0005" x="1208" y="724" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="jack stabtime0006" x="0" y="1448" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="jack stabtime0007" x="604" y="1448" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="jack stabtime0008" x="1208" y="1448" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="jack stabtime0009" x="0" y="2172" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="jack stabtime0010" x="604" y="2172" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="jack stabtime0011" x="1208" y="2172" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+</TextureAtlas>

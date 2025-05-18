@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-381,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "POV BF Idle"
+		},
+		{
+			"offsets": [
+				-6,
+				163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "POV BF Left Miss"
+		},
+		{
+			"offsets": [
+				-144,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "POV BF Down Miss"
+		},
+		{
+			"offsets": [
+				-155,
+				145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "POV BF Up Miss"
+		},
+		{
+			"offsets": [
+				-274,
+				162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "POV BF Right Miss"
+		},
+		{
+			"offsets": [
+				-2,
+				161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "POV BF Left0"
+		},
+		{
+			"offsets": [
+				-278,
+				157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "POV BF Right0"
+		},
+		{
+			"offsets": [
+				-147,
+				147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "POV BF Up0"
+		},
+		{
+			"offsets": [
+				-144,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "POV BF Down0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/POV_BF",
+	"position": [
+		-40,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-355,
+		-690
+	],
+	"sing_duration": 4,
+	"scale": 2.1
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="ifusmall.png" width="2064" height="1945">
+	<SubTexture name="ifusmall danceleft0000" x="1907" y="1021" width="110" height="100" frameX="-447" frameY="-627" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall danceleft0001" x="1907" y="1227" width="108" height="100" frameX="-448" frameY="-627" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall danceleft0002" x="1705" y="982" width="106" height="104" frameX="-449" frameY="-623" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall danceleft0003" x="1666" y="1731" width="104" height="105" frameX="-450" frameY="-622" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall danceleft0004" x="1705" y="764" width="104" height="106" frameX="-450" frameY="-621" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall danceright0000" x="1907" y="1124" width="110" height="100" frameX="-447" frameY="-627" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall danceright0001" x="1705" y="661" width="108" height="100" frameX="-448" frameY="-627" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall danceright0002" x="1705" y="1089" width="106" height="104" frameX="-449" frameY="-623" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall danceright0003" x="1666" y="1839" width="104" height="105" frameX="-450" frameY="-622" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall danceright0004" x="1705" y="764" width="104" height="106" frameX="-450" frameY="-621" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0000" x="1705" y="764" width="104" height="106" frameX="-450" frameY="-621" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0001" x="559" y="1853" width="131" height="91" frameX="-434" frameY="-636" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0002" x="1566" y="1634" width="125" height="94" frameX="-437" frameY="-633" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0003" x="1907" y="919" width="124" height="99" frameX="-440" frameY="-628" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0004" x="1705" y="873" width="94" height="106" frameX="-468" frameY="-594" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0005" x="1907" y="817" width="130" height="99" frameX="-505" frameY="-574" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0006" x="1907" y="661" width="152" height="153" frameX="-558" frameY="-581" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0007" x="1566" y="1427" width="206" height="204" frameX="-558" frameY="-614" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0008" x="1" y="1733" width="286" height="155" frameX="-539" frameY="-697" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0009" x="1806" y="261" width="253" height="172" frameX="-556" frameY="-680" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0010" x="1459" y="1733" width="204" height="207" frameX="-573" frameY="-642" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0011" x="1046" y="1691" width="197" height="221" frameX="-561" frameY="-548" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0012" x="828" y="1691" width="215" height="229" frameX="-509" frameY="-436" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0013" x="290" y="1733" width="266" height="165" frameX="-385" frameY="-405" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0014" x="1246" y="1733" width="210" height="198" frameX="-308" frameY="-404" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0015" x="1701" y="1207" width="203" height="206" frameX="-248" frameY="-435" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0016" x="1783" y="436" width="224" height="222" frameX="-201" frameY="-481" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0017" x="1806" y="1" width="257" height="257" frameX="-160" frameY="-547" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0018" x="1267" y="1207" width="431" height="217" frameX="-80" frameY="-710" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0019" x="1267" y="267" width="513" height="207" frameX="-18" frameY="-721" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0020" x="1267" y="952" width="435" height="252" frameX="-54" frameY="-676" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0021" x="1267" y="1427" width="296" height="303" frameX="-136" frameY="-625" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0022" x="1267" y="477" width="206" height="472" frameX="-178" frameY="-322" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0023" x="1476" y="477" width="226" height="436" frameX="-180" frameY="-44" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0024" x="1775" y="1416" width="206" height="128" frameX="-209" frameY="-2" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0025" x="2062" y="261" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0026" x="2062" y="261" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0027" x="2062" y="261" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0028" x="2062" y="261" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0029" x="2062" y="261" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0030" x="2062" y="261" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0031" x="2062" y="261" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0032" x="2062" y="261" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0033" x="2062" y="261" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0034" x="2062" y="261" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0035" x="1267" y="1" width="536" height="263" frameX="-236" frameY="-2" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0036" x="626" y="1044" width="638" height="644" frameX="-183" frameY="-2" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0037" x="626" y="1" width="638" height="1040" frameX="-183" frameY="-2" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0038" x="1" y="1" width="622" height="1139" frameX="-187" frameY="-263" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0039" x="1" y="1143" width="622" height="569" frameX="-183" frameY="-833" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0040" x="559" y="1733" width="266" height="117" frameX="-357" frameY="-1285" frameWidth="1004" frameHeight="1404"/>
+	<SubTexture name="ifusmall approach0041" x="2062" y="261" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1004" frameHeight="1404"/>
+</TextureAtlas>

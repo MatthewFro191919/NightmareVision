@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="epic-thruster.png"><SubTexture name="epic-thruster oyeah0000" x="0" y="0" width="1054" height="1084" frameX="0" frameY="0" frameWidth="1054" frameHeight="1084" />
+<SubTexture name="epic-thruster oyeah0001" x="1054" y="0" width="1054" height="1084" frameX="0" frameY="0" frameWidth="1054" frameHeight="1084" />
+<SubTexture name="epic-thruster oyeah0002" x="0" y="1084" width="1054" height="1084" frameX="0" frameY="0" frameWidth="1054" frameHeight="1084" />
+<SubTexture name="epic-thruster oyeah0003" x="1054" y="1084" width="1054" height="1084" frameX="0" frameY="0" frameWidth="1054" frameHeight="1084" />
+<SubTexture name="epic-thruster oyeah0004" x="0" y="2168" width="1054" height="1084" frameX="0" frameY="0" frameWidth="1054" frameHeight="1084" />
+<SubTexture name="epic-thruster oyeah0005" x="1054" y="2168" width="1054" height="1084" frameX="0" frameY="0" frameWidth="1054" frameHeight="1084" />
+<SubTexture name="epic-thruster oyeah0006" x="0" y="3252" width="1054" height="1084" frameX="0" frameY="0" frameWidth="1054" frameHeight="1084" />
+<SubTexture name="epic-thruster oyeah0007" x="1054" y="3252" width="1054" height="1084" frameX="0" frameY="0" frameWidth="1054" frameHeight="1084" />
+</TextureAtlas>

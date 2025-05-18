@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gallery.png"><SubTexture name="gallery normal0000" x="0" y="0" width="1046" height="866" frameX="0" frameY="0" frameWidth="1046" frameHeight="866" />
+<SubTexture name="gallery select0000" x="0" y="866" width="1046" height="866" frameX="0" frameY="0" frameWidth="1046" frameHeight="866" />
+</TextureAtlas>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Fuckyea-2gun.png" width="1439" height="1565">
+	<SubTexture name="Fuckyea-2gun idle0000" x="1253" y="1118" width="1" height="1" frameX="-0" frameY="-0" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun altidle0000" x="1109" y="1122" width="327" height="83" frameX="-183" frameY="-189" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-idle0000" x="1" y="1330" width="347" height="98" frameX="-185" frameY="-174" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-idle0001" x="676" y="448" width="228" height="444" rotated="true" frameX="-180" frameY="-37" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-idle0002" x="1" y="225" width="448" height="221" frameX="-182" frameY="-53" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-idle0003" x="383" y="1128" width="379" height="199" frameX="-182" frameY="-80" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-idle0004" x="1115" y="1208" width="248" height="189" frameX="-182" frameY="-90" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-right0000" x="701" y="1330" width="347" height="98" frameX="-187" frameY="-177" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-right0001" x="448" y="897" width="444" height="228" frameX="-182" frameY="-40" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-right0002" x="452" y="1" width="221" height="448" rotated="true" frameX="-184" frameY="-56" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-right0003" x="1138" y="1" width="199" height="379" rotated="true" frameX="-184" frameY="-83" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-right0004" x="1115" y="1208" width="248" height="189" frameX="-184" frameY="-93" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-down0000" x="765" y="1214" width="347" height="98" frameX="-178" frameY="-199" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-down0001" x="676" y="1" width="228" height="444" rotated="true" frameX="-173" frameY="-62" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-down0002" x="1" y="1" width="448" height="221" frameX="-175" frameY="-78" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-down0003" x="1" y="1128" width="379" height="199" frameX="-175" frameY="-105" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-down0004" x="1115" y="1208" width="248" height="189" frameX="-175" frameY="-115" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-up0000" x="1340" y="1" width="98" height="347" rotated="true" frameX="-184" frameY="-171" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-up0001" x="907" y="1" width="228" height="444" rotated="true" frameX="-179" frameY="-34" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-up0002" x="1" y="673" width="448" height="221" frameX="-181" frameY="-50" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-up0003" x="1138" y="383" width="199" height="379" rotated="true" frameX="-181" frameY="-77" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-up0004" x="1115" y="1208" width="248" height="189" frameX="-181" frameY="-87" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-left0000" x="351" y="1330" width="347" height="98" frameX="-184" frameY="-178" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-left0001" x="1" y="897" width="444" height="228" frameX="-179" frameY="-41" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-left0002" x="1" y="449" width="448" height="221" frameX="-181" frameY="-57" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-left0003" x="907" y="832" width="199" height="379" rotated="true" frameX="-181" frameY="-84" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun SHOOT-left0004" x="1115" y="1208" width="248" height="189" frameX="-181" frameY="-94" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun 1load0000" x="1" y="1431" width="138" height="133" frameX="-88" frameY="-238" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun 1load0001" x="422" y="1431" width="134" height="128" rotated="true" frameX="-88" frameY="-238" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun 1load0002" x="1253" y="976" width="127" height="139" frameX="-88" frameY="-233" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun 2load0000" x="142" y="1431" width="137" height="131" rotated="true" frameX="-85" frameY="-238" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun 2load0001" x="282" y="1431" width="137" height="130" rotated="true" frameX="-86" frameY="-238" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun 2load0002" x="559" y="1431" width="128" height="133" frameX="-88" frameY="-238" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun endload0000" x="690" y="1431" width="132" height="133" frameX="-88" frameY="-238" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun endload0001" x="1253" y="765" width="136" height="208" rotated="true" frameX="-90" frameY="-238" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun endload0002" x="1109" y="765" width="141" height="354" rotated="true" frameX="-100" frameY="-238" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun endload0003" x="907" y="448" width="156" height="381" rotated="true" frameX="-76" frameY="-220" frameWidth="654" frameHeight="445"/>
+	<SubTexture name="Fuckyea-2gun endload0004" x="452" y="452" width="148" height="402" rotated="true" frameX="-85" frameY="-223" frameWidth="654" frameHeight="445"/>
+</TextureAtlas>

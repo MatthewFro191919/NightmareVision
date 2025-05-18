@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FreeplayLegacy.png"><SubTexture name="FreeplayLegacy hover0000" x="0" y="0" width="531" height="536" frameX="0" frameY="0" frameWidth="531" frameHeight="536" />
+<SubTexture name="FreeplayLegacy normal0000" x="0" y="536" width="531" height="536" frameX="0" frameY="0" frameWidth="531" frameHeight="536" />
+</TextureAtlas>

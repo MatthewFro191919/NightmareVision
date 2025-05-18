@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Roach_BF.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CBF Down0000" x="0" y="0" width="312" height="385"/>
+	<SubTexture name="CBF Down0001" x="0" y="0" width="312" height="385"/>
+	<SubTexture name="CBF Down0002" x="312" y="0" width="312" height="385"/>
+	<SubTexture name="CBF Down0003" x="312" y="0" width="312" height="385"/>
+	<SubTexture name="CBF Down0004" x="624" y="0" width="312" height="385"/>
+	<SubTexture name="CBF Down0005" x="624" y="0" width="312" height="385"/>
+	<SubTexture name="CBF Down0006" x="936" y="0" width="312" height="385"/>
+	<SubTexture name="CBF Down0007" x="936" y="0" width="312" height="385"/>
+	<SubTexture name="CBF Down Miss0000" x="1248" y="0" width="770" height="493"/>
+	<SubTexture name="CBF Down Miss0001" x="2018" y="0" width="770" height="493"/>
+	<SubTexture name="CBF Down Miss0002" x="2018" y="0" width="770" height="493"/>
+	<SubTexture name="CBF Down Miss0003" x="2788" y="0" width="770" height="493"/>
+	<SubTexture name="CBF Down Miss0004" x="2788" y="0" width="770" height="493"/>
+	<SubTexture name="CBF Down Miss0005" x="0" y="493" width="770" height="493"/>
+	<SubTexture name="CBF Down Miss0006" x="0" y="493" width="770" height="493"/>
+	<SubTexture name="CBF Down Miss0007" x="770" y="493" width="770" height="493"/>
+	<SubTexture name="CBF Idle0000" x="1540" y="493" width="467" height="624"/>
+	<SubTexture name="CBF Idle0001" x="1540" y="493" width="467" height="624"/>
+	<SubTexture name="CBF Idle0002" x="2007" y="493" width="467" height="624"/>
+	<SubTexture name="CBF Idle0003" x="2007" y="493" width="467" height="624"/>
+	<SubTexture name="CBF Idle0004" x="2474" y="493" width="467" height="624"/>
+	<SubTexture name="CBF Idle0005" x="2474" y="493" width="467" height="624"/>
+	<SubTexture name="CBF Idle0006" x="2941" y="493" width="467" height="624"/>
+	<SubTexture name="CBF Idle0007" x="2941" y="493" width="467" height="624"/>
+	<SubTexture name="CBF Idle0008" x="3408" y="493" width="467" height="624"/>
+	<SubTexture name="CBF Idle0009" x="3408" y="493" width="467" height="624"/>
+	<SubTexture name="CBF Idle0010" x="0" y="1117" width="467" height="624"/>
+	<SubTexture name="CBF Idle0011" x="0" y="1117" width="467" height="624"/>
+	<SubTexture name="CBF Idle0012" x="3408" y="493" width="467" height="624"/>
+	<SubTexture name="CBF Idle0013" x="3408" y="493" width="467" height="624"/>
+	<SubTexture name="CBF Idle0014" x="0" y="1117" width="467" height="624"/>
+	<SubTexture name="CBF Left0000" x="467" y="1117" width="441" height="570"/>
+	<SubTexture name="CBF Left0001" x="467" y="1117" width="441" height="570"/>
+	<SubTexture name="CBF Left0002" x="908" y="1117" width="441" height="570"/>
+	<SubTexture name="CBF Left0003" x="908" y="1117" width="441" height="570"/>
+	<SubTexture name="CBF Left0004" x="1349" y="1117" width="441" height="570"/>
+	<SubTexture name="CBF Left0005" x="1349" y="1117" width="441" height="570"/>
+	<SubTexture name="CBF Left0006" x="1790" y="1117" width="441" height="570"/>
+	<SubTexture name="CBF Left0007" x="1790" y="1117" width="441" height="570"/>
+	<SubTexture name="CBF Left Miss0000" x="467" y="1117" width="441" height="570"/>
+	<SubTexture name="CBF Left Miss0001" x="2231" y="1117" width="441" height="570"/>
+	<SubTexture name="CBF Left Miss0002" x="2231" y="1117" width="441" height="570"/>
+	<SubTexture name="CBF Left Miss0003" x="2672" y="1117" width="441" height="570"/>
+	<SubTexture name="CBF Left Miss0004" x="2672" y="1117" width="441" height="570"/>
+	<SubTexture name="CBF Left Miss0005" x="3113" y="1117" width="441" height="570"/>
+	<SubTexture name="CBF Left Miss0006" x="3113" y="1117" width="441" height="570"/>
+	<SubTexture name="CBF Left Miss0007" x="3554" y="1117" width="441" height="570"/>
+	<SubTexture name="CBF Right0000" x="0" y="1741" width="453" height="516"/>
+	<SubTexture name="CBF Right0001" x="0" y="1741" width="453" height="516"/>
+	<SubTexture name="CBF Right0002" x="453" y="1741" width="453" height="516"/>
+	<SubTexture name="CBF Right0003" x="453" y="1741" width="453" height="516"/>
+	<SubTexture name="CBF Right0004" x="906" y="1741" width="453" height="516"/>
+	<SubTexture name="CBF Right0005" x="906" y="1741" width="453" height="516"/>
+	<SubTexture name="CBF Right0006" x="1359" y="1741" width="453" height="516"/>
+	<SubTexture name="CBF Right0007" x="1359" y="1741" width="453" height="516"/>
+	<SubTexture name="CBF Right Miss0000" x="0" y="1741" width="453" height="516"/>
+	<SubTexture name="CBF Right Miss0001" x="1812" y="1741" width="453" height="516"/>
+	<SubTexture name="CBF Right Miss0002" x="2265" y="1741" width="453" height="516"/>
+	<SubTexture name="CBF Right Miss0003" x="2718" y="1741" width="453" height="516"/>
+	<SubTexture name="CBF Right Miss0004" x="3171" y="1741" width="453" height="516"/>
+	<SubTexture name="CBF Right Miss0005" x="3624" y="1741" width="453" height="516"/>
+	<SubTexture name="CBF Right Miss0006" x="0" y="2257" width="453" height="516"/>
+	<SubTexture name="CBF Right Miss0007" x="453" y="2257" width="453" height="516"/>
+	<SubTexture name="CBF Up0000" x="906" y="2257" width="465" height="567"/>
+	<SubTexture name="CBF Up0001" x="906" y="2257" width="465" height="567"/>
+	<SubTexture name="CBF Up0002" x="1371" y="2257" width="465" height="567"/>
+	<SubTexture name="CBF Up0003" x="1371" y="2257" width="465" height="567"/>
+	<SubTexture name="CBF Up0004" x="1836" y="2257" width="465" height="567"/>
+	<SubTexture name="CBF Up0005" x="1836" y="2257" width="465" height="567"/>
+	<SubTexture name="CBF Up0006" x="2301" y="2257" width="465" height="567"/>
+	<SubTexture name="CBF Up0007" x="2301" y="2257" width="465" height="567"/>
+	<SubTexture name="CBF Up Miss0000" x="2766" y="2257" width="758" height="567"/>
+	<SubTexture name="CBF Up Miss0001" x="0" y="2824" width="758" height="567"/>
+	<SubTexture name="CBF Up Miss0002" x="0" y="2824" width="758" height="567"/>
+	<SubTexture name="CBF Up Miss0003" x="758" y="2824" width="758" height="567"/>
+	<SubTexture name="CBF Up Miss0004" x="758" y="2824" width="758" height="567"/>
+	<SubTexture name="CBF Up Miss0005" x="1516" y="2824" width="758" height="567"/>
+	<SubTexture name="CBF Up Miss0006" x="1516" y="2824" width="758" height="567"/>
+	<SubTexture name="CBF Up Miss0007" x="2274" y="2824" width="758" height="567"/>
+	<SubTexture name="CBF Yeah0000" x="3032" y="2824" width="467" height="624"/>
+	<SubTexture name="CBF Yeah0001" x="3032" y="2824" width="467" height="624"/>
+	<SubTexture name="CBF Yeah0002" x="3499" y="2824" width="467" height="624"/>
+	<SubTexture name="CBF Yeah0003" x="3499" y="2824" width="467" height="624"/>
+	<SubTexture name="CBF Yeah0004" x="0" y="3448" width="467" height="624"/>
+	<SubTexture name="CBF Yeah0005" x="0" y="3448" width="467" height="624"/>
+	<SubTexture name="CBF Yeah0006" x="467" y="3448" width="467" height="624"/>
+	<SubTexture name="CBF Yeah0007" x="467" y="3448" width="467" height="624"/>
+</TextureAtlas>

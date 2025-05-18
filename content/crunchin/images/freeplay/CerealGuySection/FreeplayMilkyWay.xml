@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FreeplayMilkyWay.png"><SubTexture name="FreeplayMilkyWay select0000" x="0" y="0" width="346" height="120" frameX="0" frameY="0" frameWidth="346" frameHeight="120" />
+<SubTexture name="FreeplayMilkyWay normal0000" x="0" y="120" width="346" height="120" frameX="0" frameY="0" frameWidth="346" frameHeight="120" />
+</TextureAtlas>

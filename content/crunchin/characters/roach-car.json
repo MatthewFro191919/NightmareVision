@@ -1,0 +1,218 @@
+{
+	"animations": [
+		{
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				15,
+				40
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Roach Car idle"
+		},
+		{
+			"offsets": [
+				15,
+				40
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Roach Car left"
+		},
+		{
+			"offsets": [
+				16,
+				41
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Roach Car right"
+		},
+		{
+			"offsets": [
+				16,
+				41
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Roach Car up"
+		},
+		{
+			"offsets": [
+				15,
+				39
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Roach Car down"
+		},
+		{
+			"offsets": [
+				22,
+				33
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge1",
+			"indices": [],
+			"name": "Roach Car Dodgeleft"
+		},
+		{
+			"offsets": [
+				12,
+				39
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge2",
+			"indices": [],
+			"name": "Roach Car Dodgedown"
+		},
+		{
+			"offsets": [
+				12,
+				42
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge3",
+			"indices": [],
+			"name": "Roach Car Dodgeright"
+		},
+		{
+			"offsets": [
+				6,
+				39
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Roach Car Leftmiss"
+		},
+		{
+			"offsets": [
+				16,
+				44
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Roach Car Downmiss"
+		},
+		{
+			"offsets": [
+				18,
+				39
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Roach Car Upmiss"
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				26,
+				42
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Roach Car Rightmiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Roach_Car",
+	"position": [
+		0,
+		140
+	],
+	"healthicon": "CBF",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		175,
+		175
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="deephell-ifu.png" width="3400" height="139">
+	<SubTexture name="deephell-ifu idle0000" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu idle bf0000" x="575" y="1" width="141" height="135" frameX="-85" frameY="-89" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu idle bf0001" x="863" y="1" width="138" height="136" frameX="-87" frameY="-88" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu idle bf0002" x="2556" y="1" width="137" height="137" frameX="-87" frameY="-86" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu idle bf0003" x="2696" y="1" width="139" height="137" rotated="true" frameX="-87" frameY="-84" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu idle bf0004" x="1569" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu idle0001" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu pooplook0000" x="1569" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu pooplook0001" x="1428" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu pooplook0002" x="1287" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu pooplook0003" x="1146" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu idle0002" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu idle poop0000" x="719" y="1" width="141" height="135" frameX="-85" frameY="-89" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu idle poop0001" x="1004" y="1" width="139" height="136" frameX="-86" frameY="-88" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu idle poop0002" x="2838" y="1" width="137" height="137" frameX="-87" frameY="-86" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu idle poop0003" x="2978" y="1" width="139" height="137" rotated="true" frameX="-87" frameY="-84" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu idle poop0004" x="1146" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu idle0003" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu bflook0000" x="1146" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu bflook0001" x="1287" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu bflook0002" x="1428" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu bflook0003" x="1569" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu idle0004" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu smile0000" x="3120" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu smile0001" x="3261" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu idle0005" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu danceleft0000" x="5" y="1" width="140" height="134" frameX="-86" frameY="-89" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu danceleft0001" x="148" y="1" width="139" height="134" frameX="-86" frameY="-89" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu danceleft0002" x="1710" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu danceleft0003" x="1851" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu danceleft0004" x="1992" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu idle0006" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu danceright0000" x="290" y="1" width="140" height="134" frameX="-86" frameY="-89" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu danceright0001" x="433" y="1" width="139" height="134" frameX="-86" frameY="-89" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu danceright0002" x="2133" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu danceright0003" x="2274" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+	<SubTexture name="deephell-ifu danceright0004" x="2415" y="1" width="138" height="137" rotated="true" frameX="-87" frameY="-85" frameWidth="304" frameHeight="304"/>
+</TextureAtlas>

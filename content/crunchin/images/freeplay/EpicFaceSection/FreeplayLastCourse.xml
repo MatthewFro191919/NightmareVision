@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FreeplayLastCourse.png"><SubTexture name="FreeplayLastCourse select0000" x="0" y="0" width="367" height="132" frameX="0" frameY="0" frameWidth="367" frameHeight="132" />
+<SubTexture name="FreeplayLastCourse normal0000" x="0" y="132" width="367" height="132" frameX="0" frameY="0" frameWidth="367" frameHeight="132" />
+</TextureAtlas>

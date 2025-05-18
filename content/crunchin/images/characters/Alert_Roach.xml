@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+Format:
+n  => name
+x  => x pos
+y  => y pos
+w  => width
+h  => height
+pX => x pos of the pivot point
+pY => y pos of the pivot point
+oX => x-corner offset
+oY => y-corner offset
+oW => original width
+oH => original height
+r => 'y' if sprite is rotated-->
+<TextureAtlas imagePath="Alert_Roach.png" width="8164" height="1315" scale="1" format="RGBA8888">
+  <sprite n="CBF Alert Down0000" x="6732" y="331" w="466" h="461" pX="0.5" pY="0.5" oX="54" oY="103" oW="659" oH="884"/>
+  <sprite n="CBF Alert Down0001" x="6732" y="331" w="466" h="461" pX="0.5" pY="0.5" oX="54" oY="103" oW="659" oH="884"/>
+  <sprite n="CBF Alert Down0002" x="7201" y="332" w="472" h="468" pX="0.5" pY="0.5" oX="54" oY="98" oW="659" oH="884"/>
+  <sprite n="CBF Alert Down0003" x="7201" y="332" w="472" h="468" pX="0.5" pY="0.5" oX="54" oY="98" oW="659" oH="884"/>
+  <sprite n="CBF Alert Down0004" x="7676" y="332" w="486" h="487" pX="0.5" pY="0.5" oX="59" oY="84" oW="659" oH="884" r="y"/>
+  <sprite n="CBF Alert Down0005" x="7676" y="332" w="486" h="487" pX="0.5" pY="0.5" oX="59" oY="84" oW="659" oH="884" r="y"/>
+  <sprite n="CBF Alert Down0006" x="6023" y="781" w="491" h="493" pX="0.5" pY="0.5" oX="60" oY="80" oW="659" oH="884" r="y"/>
+  <sprite n="CBF Alert Down0007" x="6023" y="781" w="491" h="493" pX="0.5" pY="0.5" oX="60" oY="80" oW="659" oH="884" r="y"/>
+  <sprite n="CBF Alert Down0008" x="5528" y="761" w="490" h="492" pX="0.5" pY="0.5" oX="60" oY="80" oW="659" oH="884" r="y"/>
+  <sprite n="CBF Alert Down0009" x="5528" y="761" w="490" h="492" pX="0.5" pY="0.5" oX="60" oY="80" oW="659" oH="884" r="y"/>
+  <sprite n="CBF Alert Down Miss0000" x="6263" y="317" w="466" h="461" pX="0.5" pY="0.5" oX="53" oY="103" oW="892" oH="881"/>
+  <sprite n="CBF Alert Down Miss0001" x="2689" y="1" w="303" h="393" pX="0.5" pY="0.5" oX="64" oY="72" oW="892" oH="881" r="y"/>
+  <sprite n="CBF Alert Down Miss0002" x="2689" y="1" w="303" h="393" pX="0.5" pY="0.5" oX="64" oY="72" oW="892" oH="881" r="y"/>
+  <sprite n="CBF Alert Down Miss0003" x="5198" y="1" w="307" h="385" pX="0.5" pY="0.5" oX="59" oY="80" oW="892" oH="881" r="y"/>
+  <sprite n="CBF Alert Down Miss0004" x="5198" y="1" w="307" h="385" pX="0.5" pY="0.5" oX="59" oY="80" oW="892" oH="881" r="y"/>
+  <sprite n="CBF Alert Down Miss0005" x="5586" y="1" w="307" h="385" pX="0.5" pY="0.5" oX="59" oY="80" oW="892" oH="881" r="y"/>
+  <sprite n="CBF Alert Down Miss0006" x="5586" y="1" w="307" h="385" pX="0.5" pY="0.5" oX="59" oY="80" oW="892" oH="881" r="y"/>
+  <sprite n="CBF Alert Down Miss0007" x="5974" y="1" w="307" h="385" pX="0.5" pY="0.5" oX="59" oY="80" oW="892" oH="881" r="y"/>
+  <sprite n="CBF Alert Idle0000" x="1" y="300" w="413" h="490" pX="0.5" pY="0.5" oX="79" oY="57" oW="582" oH="819" r="y"/>
+  <sprite n="CBF Alert Idle0001" x="1" y="300" w="413" h="490" pX="0.5" pY="0.5" oX="79" oY="57" oW="582" oH="819" r="y"/>
+  <sprite n="CBF Alert Idle0002" x="494" y="300" w="414" h="500" pX="0.5" pY="0.5" oX="77" oY="49" oW="582" oH="819" r="y"/>
+  <sprite n="CBF Alert Idle0003" x="494" y="300" w="414" h="500" pX="0.5" pY="0.5" oX="77" oY="49" oW="582" oH="819" r="y"/>
+  <sprite n="CBF Alert Idle0004" x="997" y="301" w="425" h="514" pX="0.5" pY="0.5" oX="80" oY="38" oW="582" oH="819" r="y"/>
+  <sprite n="CBF Alert Idle0005" x="997" y="301" w="425" h="514" pX="0.5" pY="0.5" oX="80" oY="38" oW="582" oH="819" r="y"/>
+  <sprite n="CBF Alert Idle0006" x="1514" y="301" w="431" h="520" pX="0.5" pY="0.5" oX="85" oY="33" oW="582" oH="819" r="y"/>
+  <sprite n="CBF Alert Idle0007" x="1514" y="301" w="431" h="520" pX="0.5" pY="0.5" oX="85" oY="33" oW="582" oH="819" r="y"/>
+  <sprite n="CBF Alert Idle0008" x="2037" y="302" w="432" h="520" pX="0.5" pY="0.5" oX="86" oY="33" oW="582" oH="819" r="y"/>
+  <sprite n="CBF Alert Idle0009" x="2037" y="302" w="432" h="520" pX="0.5" pY="0.5" oX="86" oY="33" oW="582" oH="819" r="y"/>
+  <sprite n="CBF Alert Idle0010" x="2560" y="307" w="432" h="520" pX="0.5" pY="0.5" oX="86" oY="33" oW="582" oH="819" r="y"/>
+  <sprite n="CBF Alert Idle0011" x="2560" y="307" w="432" h="520" pX="0.5" pY="0.5" oX="86" oY="33" oW="582" oH="819" r="y"/>
+  <sprite n="CBF Alert Idle0012" x="2037" y="302" w="432" h="520" pX="0.5" pY="0.5" oX="86" oY="33" oW="582" oH="819" r="y"/>
+  <sprite n="CBF Alert Idle0013" x="2037" y="302" w="432" h="520" pX="0.5" pY="0.5" oX="86" oY="33" oW="582" oH="819" r="y"/>
+  <sprite n="CBF Alert Idle0014" x="2560" y="307" w="432" h="520" pX="0.5" pY="0.5" oX="86" oY="33" oW="582" oH="819" r="y"/>
+  <sprite n="CBF Alert Left0000" x="3858" y="753" w="475" h="525" pX="0.5" pY="0.5" oX="42" oY="121" oW="635" oH="890" r="y"/>
+  <sprite n="CBF Alert Left0001" x="3858" y="753" w="475" h="525" pX="0.5" pY="0.5" oX="42" oY="121" oW="635" oH="890" r="y"/>
+  <sprite n="CBF Alert Left0002" x="4386" y="756" w="475" h="525" pX="0.5" pY="0.5" oX="46" oY="121" oW="635" oH="890" r="y"/>
+  <sprite n="CBF Alert Left0003" x="4386" y="756" w="475" h="525" pX="0.5" pY="0.5" oX="46" oY="121" oW="635" oH="890" r="y"/>
+  <sprite n="CBF Alert Left0004" x="1752" y="737" w="472" h="523" pX="0.5" pY="0.5" oX="56" oY="124" oW="635" oH="890" r="y"/>
+  <sprite n="CBF Alert Left0005" x="1752" y="737" w="472" h="523" pX="0.5" pY="0.5" oX="56" oY="124" oW="635" oH="890" r="y"/>
+  <sprite n="CBF Alert Left0006" x="2278" y="742" w="472" h="523" pX="0.5" pY="0.5" oX="57" oY="125" oW="635" oH="890" r="y"/>
+  <sprite n="CBF Alert Left0007" x="2278" y="742" w="472" h="523" pX="0.5" pY="0.5" oX="57" oY="125" oW="635" oH="890" r="y"/>
+  <sprite n="CBF Alert Left0008" x="2804" y="753" w="473" h="523" pX="0.5" pY="0.5" oX="57" oY="125" oW="635" oH="890" r="y"/>
+  <sprite n="CBF Alert Left0009" x="2804" y="753" w="473" h="523" pX="0.5" pY="0.5" oX="57" oY="125" oW="635" oH="890" r="y"/>
+  <sprite n="CBF Alert Left Miss0000" x="3330" y="753" w="475" h="525" pX="0.5" pY="0.5" oX="42" oY="121" oW="816" oH="890" r="y"/>
+  <sprite n="CBF Alert Left Miss0001" x="6362" y="1" w="313" h="424" pX="0.5" pY="0.5" oX="74" oY="124" oW="816" oH="890" r="y"/>
+  <sprite n="CBF Alert Left Miss0002" x="6362" y="1" w="313" h="424" pX="0.5" pY="0.5" oX="74" oY="124" oW="816" oH="890" r="y"/>
+  <sprite n="CBF Alert Left Miss0003" x="6789" y="1" w="327" h="422" pX="0.5" pY="0.5" oX="58" oY="126" oW="816" oH="890" r="y"/>
+  <sprite n="CBF Alert Left Miss0004" x="6789" y="1" w="327" h="422" pX="0.5" pY="0.5" oX="58" oY="126" oW="816" oH="890" r="y"/>
+  <sprite n="CBF Alert Left Miss0005" x="7639" y="1" w="328" h="421" pX="0.5" pY="0.5" oX="58" oY="127" oW="816" oH="890" r="y"/>
+  <sprite n="CBF Alert Left Miss0006" x="7639" y="1" w="328" h="421" pX="0.5" pY="0.5" oX="58" oY="127" oW="816" oH="890" r="y"/>
+  <sprite n="CBF Alert Left Miss0007" x="7214" y="1" w="327" h="422" pX="0.5" pY="0.5" oX="58" oY="126" oW="816" oH="890" r="y"/>
+  <sprite n="CBF Alert Right0000" x="5201" y="311" w="446" h="528" pX="0.5" pY="0.5" oX="52" oY="62" oW="567" oH="824" r="y"/>
+  <sprite n="CBF Alert Right0001" x="5201" y="311" w="446" h="528" pX="0.5" pY="0.5" oX="52" oY="62" oW="567" oH="824" r="y"/>
+  <sprite n="CBF Alert Right0002" x="4672" y="311" w="442" h="526" pX="0.5" pY="0.5" oX="52" oY="63" oW="567" oH="824" r="y"/>
+  <sprite n="CBF Alert Right0003" x="4672" y="311" w="442" h="526" pX="0.5" pY="0.5" oX="52" oY="63" oW="567" oH="824" r="y"/>
+  <sprite n="CBF Alert Right0004" x="3083" y="310" w="440" h="527" pX="0.5" pY="0.5" oX="50" oY="62" oW="567" oH="824" r="y"/>
+  <sprite n="CBF Alert Right0005" x="3083" y="310" w="440" h="527" pX="0.5" pY="0.5" oX="50" oY="62" oW="567" oH="824" r="y"/>
+  <sprite n="CBF Alert Right0006" x="3613" y="310" w="440" h="527" pX="0.5" pY="0.5" oX="49" oY="61" oW="567" oH="824" r="y"/>
+  <sprite n="CBF Alert Right0007" x="3613" y="310" w="440" h="527" pX="0.5" pY="0.5" oX="49" oY="61" oW="567" oH="824" r="y"/>
+  <sprite n="CBF Alert Right0008" x="4143" y="310" w="440" h="526" pX="0.5" pY="0.5" oX="49" oY="62" oW="567" oH="824" r="y"/>
+  <sprite n="CBF Alert Right0009" x="4143" y="310" w="440" h="526" pX="0.5" pY="0.5" oX="49" oY="62" oW="567" oH="824" r="y"/>
+  <sprite n="CBF Alert Right Miss 0000" x="5732" y="311" w="447" h="528" pX="0.5" pY="0.5" oX="586" oY="210" oW="1089" oH="972" r="y"/>
+  <sprite n="CBF Alert Right Miss 0001" x="1390" y="1" w="297" h="419" pX="0.5" pY="0.5" oX="581" oY="210" oW="1089" oH="972" r="y"/>
+  <sprite n="CBF Alert Right Miss 0002" x="1812" y="1" w="297" h="419" pX="0.5" pY="0.5" oX="581" oY="210" oW="1089" oH="972" r="y"/>
+  <sprite n="CBF Alert Right Miss 0003" x="3085" y="1" w="306" h="420" pX="0.5" pY="0.5" oX="583" oY="209" oW="1089" oH="972" r="y"/>
+  <sprite n="CBF Alert Right Miss 0004" x="3508" y="1" w="306" h="420" pX="0.5" pY="0.5" oX="583" oY="209" oW="1089" oH="972" r="y"/>
+  <sprite n="CBF Alert Right Miss 0005" x="3931" y="1" w="306" h="419" pX="0.5" pY="0.5" oX="583" oY="210" oW="1089" oH="972" r="y"/>
+  <sprite n="CBF Alert Right Miss 0006" x="4353" y="1" w="306" h="419" pX="0.5" pY="0.5" oX="583" oY="210" oW="1089" oH="972" r="y"/>
+  <sprite n="CBF Alert Right Miss 0007" x="4775" y="1" w="306" h="420" pX="0.5" pY="0.5" oX="583" oY="209" oW="1089" oH="972" r="y"/>
+  <sprite n="CBF Alert Up0000" x="7141" y="821" w="493" h="619" pX="0.5" pY="0.5" oX="112" oY="28" oW="677" oH="886" r="y"/>
+  <sprite n="CBF Alert Up0001" x="7141" y="821" w="493" h="619" pX="0.5" pY="0.5" oX="112" oY="28" oW="677" oH="886" r="y"/>
+  <sprite n="CBF Alert Up0002" x="4914" y="760" w="489" h="611" pX="0.5" pY="0.5" oX="112" oY="34" oW="677" oH="886" r="y"/>
+  <sprite n="CBF Alert Up0003" x="4914" y="760" w="489" h="611" pX="0.5" pY="0.5" oX="112" oY="34" oW="677" oH="886" r="y"/>
+  <sprite n="CBF Alert Up0004" x="1165" y="735" w="471" h="584" pX="0.5" pY="0.5" oX="112" oY="53" oW="677" oH="886" r="y"/>
+  <sprite n="CBF Alert Up0005" x="1165" y="735" w="471" h="584" pX="0.5" pY="0.5" oX="112" oY="53" oW="677" oH="886" r="y"/>
+  <sprite n="CBF Alert Up0006" x="1" y="717" w="468" h="579" pX="0.5" pY="0.5" oX="112" oY="57" oW="677" oH="886" r="y"/>
+  <sprite n="CBF Alert Up0007" x="1" y="717" w="468" h="579" pX="0.5" pY="0.5" oX="112" oY="57" oW="677" oH="886" r="y"/>
+  <sprite n="CBF Alert Up0008" x="583" y="729" w="469" h="579" pX="0.5" pY="0.5" oX="112" oY="57" oW="677" oH="886" r="y"/>
+  <sprite n="CBF Alert Up0009" x="583" y="729" w="469" h="579" pX="0.5" pY="0.5" oX="112" oY="57" oW="677" oH="886" r="y"/>
+  <sprite n="CBF Alert Up Miss0000" x="6519" y="795" w="493" h="619" pX="0.5" pY="0.5" oX="574" oY="188" oW="1139" oH="1046" r="y"/>
+  <sprite n="CBF Alert Up Miss0001" x="2234" y="1" w="298" h="452" pX="0.5" pY="0.5" oX="574" oY="218" oW="1139" oH="1046" r="y"/>
+  <sprite n="CBF Alert Up Miss0002" x="2234" y="1" w="298" h="452" pX="0.5" pY="0.5" oX="574" oY="218" oW="1139" oH="1046" r="y"/>
+  <sprite n="CBF Alert Up Miss0003" x="1" y="1" w="296" h="460" pX="0.5" pY="0.5" oX="574" oY="210" oW="1139" oH="1046" r="y"/>
+  <sprite n="CBF Alert Up Miss0004" x="1" y="1" w="296" h="460" pX="0.5" pY="0.5" oX="574" oY="210" oW="1139" oH="1046" r="y"/>
+  <sprite n="CBF Alert Up Miss0005" x="464" y="1" w="296" h="460" pX="0.5" pY="0.5" oX="574" oY="210" oW="1139" oH="1046" r="y"/>
+  <sprite n="CBF Alert Up Miss0006" x="464" y="1" w="296" h="460" pX="0.5" pY="0.5" oX="574" oY="210" oW="1139" oH="1046" r="y"/>
+  <sprite n="CBF Alert Up Miss0007" x="927" y="1" w="296" h="460" pX="0.5" pY="0.5" oX="574" oY="210" oW="1139" oH="1046" r="y"/>
+</TextureAtlas>

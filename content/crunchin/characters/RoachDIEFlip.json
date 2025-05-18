@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				347,
+				84
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "roach_die_wk3 deathConfirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				347,
+				84
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "roach_die_wk3 firstDeath",
+			"indices": []
+		},
+		{
+			"offsets": [
+				347,
+				84
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "roach_die_wk3 retryLoop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/roach_die_wk3",
+	"position": [
+		500,
+		350
+	],
+	"healthicon": "cbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		175,
+		175
+	],
+	"camera_position": [
+		260,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

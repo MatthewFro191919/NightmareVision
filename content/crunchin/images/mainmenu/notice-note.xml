@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="notice-note.png">
+<SubTexture name="loop0000" x="0" y="0" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="loop0001" x="0" y="104" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="clear0000" x="0" y="208" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+</TextureAtlas>

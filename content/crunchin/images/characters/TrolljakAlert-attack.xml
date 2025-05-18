@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="TrolljakAlert-attack.png" width="5989" height="635">
+	<SubTexture name="TrolljakAlert-attack startattack0000" x="1523" y="1" width="490" height="603" frameX="-235" frameY="-166" frameWidth="980" frameHeight="988"/>
+	<SubTexture name="TrolljakAlert-attack startattack0001" x="3009" y="1" width="490" height="605" frameX="-235" frameY="-170" frameWidth="980" frameHeight="988"/>
+	<SubTexture name="TrolljakAlert-attack startattack0002" x="2016" y="1" width="494" height="603" frameX="-243" frameY="-185" frameWidth="980" frameHeight="988"/>
+	<SubTexture name="TrolljakAlert-attack startattack0003" x="3502" y="1" width="479" height="619" frameX="-273" frameY="-156" frameWidth="980" frameHeight="988"/>
+	<SubTexture name="TrolljakAlert-attack startattack0004" x="2513" y="1" width="493" height="603" frameX="-259" frameY="-151" frameWidth="980" frameHeight="988"/>
+	<SubTexture name="TrolljakAlert-attack startattack0005" x="524" y="1" width="497" height="600" frameX="-255" frameY="-150" frameWidth="980" frameHeight="988"/>
+	<SubTexture name="TrolljakAlert-attack startattack0006" x="5" y="1" width="516" height="595" frameX="-238" frameY="-149" frameWidth="980" frameHeight="988"/>
+	<SubTexture name="TrolljakAlert-attack idle0000" x="1" y="1" width="1" height="1" frameX="-0" frameY="-0" frameWidth="980" frameHeight="988"/>
+	<SubTexture name="TrolljakAlert-attack attackloop0000" x="3984" y="1" width="485" height="621" frameX="-273" frameY="-119" frameWidth="980" frameHeight="988"/>
+	<SubTexture name="TrolljakAlert-attack attackloop0001" x="5486" y="1" width="502" height="633" frameX="-249" frameY="-135" frameWidth="980" frameHeight="988"/>
+	<SubTexture name="TrolljakAlert-attack attackloop0002" x="4472" y="1" width="499" height="631" frameX="-257" frameY="-135" frameWidth="980" frameHeight="988"/>
+	<SubTexture name="TrolljakAlert-attack attackloop0003" x="1024" y="1" width="496" height="603" frameX="-254" frameY="-128" frameWidth="980" frameHeight="988"/>
+	<SubTexture name="TrolljakAlert-attack attackloop0004" x="4974" y="1" width="509" height="631" frameX="-271" frameY="-132" frameWidth="980" frameHeight="988"/>
+</TextureAtlas>

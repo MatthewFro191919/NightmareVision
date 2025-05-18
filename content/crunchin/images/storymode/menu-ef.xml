@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu-ef.png"><SubTexture name="menu-ef danceLeft0000" x="0" y="0" width="500" height="1054" frameX="0" frameY="0" frameWidth="500" frameHeight="1054" />
+<SubTexture name="menu-ef danceLeft0001" x="500" y="0" width="500" height="1054" frameX="0" frameY="0" frameWidth="500" frameHeight="1054" />
+<SubTexture name="menu-ef danceLeft0002" x="1000" y="0" width="500" height="1054" frameX="0" frameY="0" frameWidth="500" frameHeight="1054" />
+<SubTexture name="menu-ef danceLeft0003" x="0" y="1054" width="500" height="1054" frameX="0" frameY="0" frameWidth="500" frameHeight="1054" />
+<SubTexture name="menu-ef danceLeft0004" x="500" y="1054" width="500" height="1054" frameX="0" frameY="0" frameWidth="500" frameHeight="1054" />
+<SubTexture name="menu-ef danceLeft0005" x="1000" y="1054" width="500" height="1054" frameX="0" frameY="0" frameWidth="500" frameHeight="1054" />
+<SubTexture name="menu-ef danceLeft0006" x="0" y="2108" width="500" height="1054" frameX="0" frameY="0" frameWidth="500" frameHeight="1054" />
+<SubTexture name="menu-ef danceRight0000" x="500" y="2108" width="500" height="1054" frameX="0" frameY="0" frameWidth="500" frameHeight="1054" />
+<SubTexture name="menu-ef danceRight0001" x="1000" y="2108" width="500" height="1054" frameX="0" frameY="0" frameWidth="500" frameHeight="1054" />
+<SubTexture name="menu-ef danceRight0002" x="0" y="3162" width="500" height="1054" frameX="0" frameY="0" frameWidth="500" frameHeight="1054" />
+<SubTexture name="menu-ef danceRight0003" x="500" y="3162" width="500" height="1054" frameX="0" frameY="0" frameWidth="500" frameHeight="1054" />
+<SubTexture name="menu-ef danceRight0004" x="1000" y="3162" width="500" height="1054" frameX="0" frameY="0" frameWidth="500" frameHeight="1054" />
+<SubTexture name="menu-ef danceRight0005" x="0" y="4216" width="500" height="1054" frameX="0" frameY="0" frameWidth="500" frameHeight="1054" />
+<SubTexture name="menu-ef danceRight0006" x="500" y="4216" width="500" height="1054" frameX="0" frameY="0" frameWidth="500" frameHeight="1054" />
+</TextureAtlas>

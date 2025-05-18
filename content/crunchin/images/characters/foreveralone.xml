@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="foreveralone.png" width="7864" height="1269">
+	<SubTexture name="foreveralone idle0000" x="2106" y="821" width="1041" height="424" rotated="true" frameX="-94" frameY="-82" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone idle0001" x="7441" y="1" width="422" height="1040" frameX="-95" frameY="-83" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone idle0002" x="1058" y="818" width="1045" height="419" rotated="true" frameX="-93" frameY="-78" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone idle0003" x="3168" y="406" width="1049" height="417" rotated="true" frameX="-92" frameY="-74" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone idle0004" x="2112" y="403" width="1053" height="415" rotated="true" frameX="-91" frameY="-70" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone idle0005" x="1" y="817" width="1054" height="417" rotated="true" frameX="-89" frameY="-69" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone left0000" x="1" y="1" width="1055" height="397" rotated="true" frameX="-82" frameY="-68" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone left0001" x="1059" y="1" width="1054" height="397" rotated="true" frameX="-83" frameY="-69" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone left0002" x="2116" y="1" width="1054" height="399" rotated="true" frameX="-87" frameY="-69" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone left0003" x="3173" y="1" width="1054" height="402" rotated="true" frameX="-89" frameY="-69" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone down0000" x="1075" y="401" width="1034" height="414" rotated="true" frameX="-91" frameY="-89" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone down0001" x="5275" y="1" width="1037" height="412" rotated="true" frameX="-91" frameY="-86" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone down0002" x="4230" y="1" width="1042" height="411" rotated="true" frameX="-90" frameY="-81" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone down0003" x="6315" y="1" width="1044" height="413" rotated="true" frameX="-89" frameY="-79" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone up0000" x="1" y="401" width="1071" height="413" rotated="true" frameX="-89" frameY="-52" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone up0001" x="5287" y="417" width="1078" height="414" rotated="true" frameX="-89" frameY="-45" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone up0002" x="6368" y="417" width="1070" height="414" rotated="true" frameX="-89" frameY="-53" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone up0003" x="4220" y="416" width="1064" height="413" rotated="true" frameX="-89" frameY="-59" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone right0000" x="5258" y="834" width="1050" height="434" rotated="true" frameX="-99" frameY="-73" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone right0001" x="6311" y="834" width="1051" height="434" rotated="true" frameX="-97" frameY="-72" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone right0002" x="4204" y="832" width="1051" height="433" rotated="true" frameX="-91" frameY="-72" frameWidth="607" frameHeight="1150"/>
+	<SubTexture name="foreveralone right0003" x="3150" y="826" width="1051" height="432" rotated="true" frameX="-89" frameY="-72" frameWidth="607" frameHeight="1150"/>
+</TextureAtlas>

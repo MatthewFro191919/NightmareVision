@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MISTAKEDEATH.png"><SubTexture name="MISTAKEDEATH deathLoop0000" x="0" y="0" width="1924" height="1156" frameX="0" frameY="0" frameWidth="1924" frameHeight="1156" />
+<SubTexture name="MISTAKEDEATH deathLoop0001" x="1924" y="0" width="1924" height="1156" frameX="0" frameY="0" frameWidth="1924" frameHeight="1156" />
+<SubTexture name="MISTAKEDEATH deathLoop0002" x="3848" y="0" width="1924" height="1156" frameX="0" frameY="0" frameWidth="1924" frameHeight="1156" />
+<SubTexture name="MISTAKEDEATH deathLoop0003" x="0" y="1156" width="1924" height="1156" frameX="0" frameY="0" frameWidth="1924" frameHeight="1156" />
+<SubTexture name="MISTAKEDEATH deathLoop0004" x="1924" y="1156" width="1924" height="1156" frameX="0" frameY="0" frameWidth="1924" frameHeight="1156" />
+<SubTexture name="MISTAKEDEATH deathLoop0005" x="3848" y="1156" width="1924" height="1156" frameX="0" frameY="0" frameWidth="1924" frameHeight="1156" />
+<SubTexture name="MISTAKEDEATH deathLoop0006" x="0" y="2312" width="1924" height="1156" frameX="0" frameY="0" frameWidth="1924" frameHeight="1156" />
+<SubTexture name="MISTAKEDEATH deathLoop0007" x="1924" y="2312" width="1924" height="1156" frameX="0" frameY="0" frameWidth="1924" frameHeight="1156" />
+<SubTexture name="MISTAKEDEATH deathLoop0008" x="3848" y="2312" width="1924" height="1156" frameX="0" frameY="0" frameWidth="1924" frameHeight="1156" />
+<SubTexture name="MISTAKEDEATH deathLoop0009" x="0" y="3468" width="1924" height="1156" frameX="0" frameY="0" frameWidth="1924" frameHeight="1156" />
+<SubTexture name="MISTAKEDEATH deathLoop0010" x="1924" y="3468" width="1924" height="1156" frameX="0" frameY="0" frameWidth="1924" frameHeight="1156" />
+<SubTexture name="MISTAKEDEATH deathLoop0011" x="3848" y="3468" width="1924" height="1156" frameX="0" frameY="0" frameWidth="1924" frameHeight="1156" />
+<SubTexture name="MISTAKEDEATH deathLoop0012" x="0" y="4624" width="1924" height="1156" frameX="0" frameY="0" frameWidth="1924" frameHeight="1156" />
+</TextureAtlas>

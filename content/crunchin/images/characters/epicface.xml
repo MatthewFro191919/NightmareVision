@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="epicface.png" width="3067" height="3363">
+	<SubTexture name="Epicface danceright0000" x="2064" y="1" width="273" height="928" frameX="-95" frameY="-115" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface danceright0001" x="1" y="2024" width="939" height="319" rotated="true" frameX="-92" frameY="-104" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface danceright0002" x="1473" y="957" width="336" height="947" frameX="-90" frameY="-96" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface danceright0003" x="1473" y="1" width="342" height="953" frameX="-87" frameY="-90" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface danceright0004" x="1" y="1417" width="954" height="343" rotated="true" frameX="-79" frameY="-89" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface danceleft0000" x="943" y="2024" width="930" height="227" rotated="true" frameX="-109" frameY="-113" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface danceleft0001" x="1818" y="945" width="227" height="931" frameX="-100" frameY="-112" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface danceleft0002" x="1818" y="1" width="243" height="941" frameX="-96" frameY="-102" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface danceleft0003" x="1029" y="1030" width="250" height="950" frameX="-94" frameY="-93" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface danceleft0004" x="1" y="1763" width="951" height="258" rotated="true" frameX="-94" frameY="-92" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface left0000" x="879" y="3003" width="841" height="352" rotated="true" frameX="-2" frameY="-132" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface left0001" x="2048" y="1857" width="354" height="837" frameX="-4" frameY="-136" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface left0002" x="1723" y="3022" width="839" height="338" rotated="true" frameX="-28" frameY="-133" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface left0003" x="1" y="3032" width="851" height="330" rotated="true" frameX="-39" frameY="-121" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface left0004" x="1846" y="2697" width="854" height="322" rotated="true" frameX="-41" frameY="-118" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface down0000" x="2787" y="1810" width="276" height="843" frameX="-69" frameY="-209" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface down0001" x="879" y="2718" width="851" height="282" rotated="true" frameX="-66" frameY="-201" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface down0002" x="1" y="2718" width="875" height="311" rotated="true" frameX="-50" frameY="-177" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface down0003" x="2712" y="923" width="331" height="884" frameX="-25" frameY="-168" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface down0004" x="2440" y="1810" width="344" height="884" frameX="-22" frameY="-168" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface up0000" x="655" y="1" width="403" height="1026" frameX="-93" frameY="-11" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface up0001" x="1061" y="1" width="409" height="1020" frameX="-89" frameY="-17" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface up0002" x="1" y="1039" width="1025" height="375" rotated="true" frameX="-104" frameY="-12" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface up0003" x="1" y="1" width="329" height="1035" frameX="-108" frameY="-2" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface up0004" x="333" y="1" width="319" height="1035" frameX="-111" frameY="-2" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface right0000" x="2340" y="1" width="369" height="926" frameX="-127" frameY="-124" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface right0001" x="2064" y="932" width="373" height="922" frameX="-123" frameY="-128" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface right0002" x="1" y="2346" width="920" height="369" rotated="true" frameX="-117" frameY="-130" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface right0003" x="924" y="2346" width="919" height="362" rotated="true" frameX="-115" frameY="-131" frameWidth="500" frameHeight="1054"/>
+	<SubTexture name="Epicface right0004" x="2712" y="1" width="354" height="919" frameX="-118" frameY="-131" frameWidth="500" frameHeight="1054"/>
+</TextureAtlas>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="trolo-hope.png" width="7763" height="1253">
+	<SubTexture name="trolo-hope idle0000" x="1420" y="527" width="728" height="582" rotated="true" frameX="-103" frameY="-74" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope idle0001" x="6375" y="1" width="725" height="579" rotated="true" frameX="-105" frameY="-77" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope idle0002" x="4987" y="1" width="722" height="573" rotated="true" frameX="-111" frameY="-80" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope idle0003" x="4270" y="1" width="714" height="563" rotated="true" frameX="-120" frameY="-88" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope idle0004" x="3558" y="1" width="709" height="559" rotated="true" frameX="-123" frameY="-93" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope idle0005" x="2847" y="1" width="708" height="558" rotated="true" frameX="-124" frameY="-94" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope left0000" x="4190" y="567" width="693" height="611" rotated="true" frameX="-59" frameY="-108" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope left0001" x="3491" y="563" width="696" height="606" rotated="true" frameX="-64" frameY="-105" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope left0002" x="712" y="514" width="705" height="590" rotated="true" frameX="-80" frameY="-96" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope left0003" x="1" y="509" width="708" height="585" rotated="true" frameX="-85" frameY="-93" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope down0000" x="7103" y="1" width="659" height="582" rotated="true" frameX="-114" frameY="-143" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope down0001" x="5712" y="1" width="660" height="579" rotated="true" frameX="-117" frameY="-142" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope down0002" x="2151" y="527" width="665" height="591" rotated="true" frameX="-106" frameY="-137" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope down0003" x="2819" y="562" width="669" height="597" rotated="true" frameX="-100" frameY="-133" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope up0000" x="1" y="1" width="713" height="505" rotated="true" frameX="-169" frameY="-64" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope up0001" x="717" y="1" width="711" height="510" rotated="true" frameX="-164" frameY="-66" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope up0002" x="2137" y="1" width="707" height="523" rotated="true" frameX="-151" frameY="-70" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope up0003" x="1431" y="1" width="703" height="520" rotated="true" frameX="-154" frameY="-74" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope right0000" x="4886" y="577" width="703" height="657" rotated="true" frameX="-74" frameY="-110" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope right0001" x="6302" y="583" width="704" height="665" rotated="true" frameX="-66" frameY="-109" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope right0002" x="7009" y="586" width="707" height="666" rotated="true" frameX="-55" frameY="-106" frameWidth="754" frameHeight="854"/>
+	<SubTexture name="trolo-hope right0003" x="5592" y="583" width="707" height="660" rotated="true" frameX="-52" frameY="-106" frameWidth="754" frameHeight="854"/>
+</TextureAtlas>

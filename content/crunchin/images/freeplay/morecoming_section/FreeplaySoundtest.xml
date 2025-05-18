@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FreeplaySoundtest.png"><SubTexture name="FreeplaySoundtest select0000" x="0" y="0" width="242" height="206" frameX="0" frameY="0" frameWidth="242" frameHeight="206" />
+<SubTexture name="FreeplaySoundtest normal0000" x="0" y="206" width="242" height="206" frameX="0" frameY="0" frameWidth="242" frameHeight="206" />
+</TextureAtlas>

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-50
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "hijacked-bf idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-50
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "hijacked-bf singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "hijacked-bf singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-50
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "hijacked-bf singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "hijacked-bf singRIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-90,
+				-50
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "hijacked-bf leftmiss"
+		},
+		{
+			"offsets": [
+				-90,
+				-50
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "hijacked-bf downmiss"
+		},
+		{
+			"offsets": [
+				-90,
+				-50
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "hijacked-bf upmiss"
+		},
+		{
+			"offsets": [
+				-90,
+				-50
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "hijacked-bf rightmiss"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/hijacked-bf",
+	"position": [
+		-200,
+		-100
+	],
+	"healthicon": "hijacked-bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-70,
+		45
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

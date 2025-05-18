@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gComics.png">
+    <SubTexture name="gComics unselect0000" x="0" y="0" width="575" height="563" frameX="0" frameY="0" frameWidth="575" frameHeight="563" />
+    <SubTexture name="gComics select0000" x="0" y="563" width="575" height="563" frameX="0" frameY="0" frameWidth="575" frameHeight="563" />
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="epicbar.png"><SubTexture name="epicbar 00000" x="0" y="0" width="154" height="454" frameX="0" frameY="0" frameWidth="154" frameHeight="454" />
+<SubTexture name="epicbar 00001" x="154" y="0" width="154" height="454" frameX="0" frameY="0" frameWidth="154" frameHeight="454" />
+<SubTexture name="epicbar 10000" x="308" y="0" width="154" height="454" frameX="0" frameY="0" frameWidth="154" frameHeight="454" />
+<SubTexture name="epicbar 10001" x="0" y="454" width="154" height="454" frameX="0" frameY="0" frameWidth="154" frameHeight="454" />
+<SubTexture name="epicbar 20000" x="154" y="454" width="154" height="454" frameX="0" frameY="0" frameWidth="154" frameHeight="454" />
+<SubTexture name="epicbar 20001" x="308" y="454" width="154" height="454" frameX="0" frameY="0" frameWidth="154" frameHeight="454" />
+<SubTexture name="epicbar 30000" x="0" y="908" width="154" height="454" frameX="0" frameY="0" frameWidth="154" frameHeight="454" />
+<SubTexture name="epicbar 30001" x="154" y="908" width="154" height="454" frameX="0" frameY="0" frameWidth="154" frameHeight="454" />
+<SubTexture name="epicbar 30002" x="308" y="908" width="154" height="454" frameX="0" frameY="0" frameWidth="154" frameHeight="454" />
+<SubTexture name="epicbar 40000" x="0" y="1362" width="154" height="454" frameX="0" frameY="0" frameWidth="154" frameHeight="454" />
+<SubTexture name="epicbar 40001" x="154" y="1362" width="154" height="454" frameX="0" frameY="0" frameWidth="154" frameHeight="454" />
+<SubTexture name="epicbar 50000" x="308" y="1362" width="154" height="454" frameX="0" frameY="0" frameWidth="154" frameHeight="454" />
+<SubTexture name="epicbar 50001" x="0" y="1816" width="154" height="454" frameX="0" frameY="0" frameWidth="154" frameHeight="454" />
+<SubTexture name="epicbar 50002" x="154" y="1816" width="154" height="454" frameX="0" frameY="0" frameWidth="154" frameHeight="454" />
+<SubTexture name="epicbar 50003" x="308" y="1816" width="154" height="454" frameX="0" frameY="0" frameWidth="154" frameHeight="454" />
+</TextureAtlas>

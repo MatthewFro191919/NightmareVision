@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 14,
+			"name": "awesomeface-hype danceleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 14,
+			"name": "awesomeface-hype danceright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-10
+			],
+			"anim": "danceRight-alt",
+			"fps": 14,
+			"name": "awesomeface-hype altdanceright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-20
+			],
+			"anim": "danceLeft-alt",
+			"fps": 14,
+			"name": "awesomeface-hype altdanceleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-4
+			],
+			"anim": "hey",
+			"fps": 18,
+			"name": "awesomeface-hype cheer",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "oof",
+			"fps": 18,
+			"name": "awesomeface-hype oof1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "oogh",
+			"fps": 14,
+			"name": "awesomeface-hype oof2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/awesomeface-hype",
+	"position": [
+		120,
+		60
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-140,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="guntrail-lite.png"><SubTexture name="guntrail-lite v10000" x="0" y="0" width="204" height="954" frameX="0" frameY="0" frameWidth="204" frameHeight="954" />
+<SubTexture name="guntrail-lite 10000" x="0" y="954" width="204" height="954" frameX="0" frameY="0" frameWidth="204" frameHeight="954" />
+<SubTexture name="guntrail-lite 20000" x="0" y="1908" width="204" height="954" frameX="0" frameY="0" frameWidth="204" frameHeight="954" />
+</TextureAtlas>

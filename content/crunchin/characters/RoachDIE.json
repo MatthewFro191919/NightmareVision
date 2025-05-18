@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				351,
+				319
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Roach Die",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				41,
+				-51
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Roach Retry Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				84
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Roach Retry Confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Roach_BF_Die",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "cbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		175,
+		175
+	],
+	"camera_position": [
+		260,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

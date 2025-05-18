@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="9-m.png"><SubTexture name="9-m danceRight0000" x="0" y="0" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m danceRight0001" x="964" y="0" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m danceRight0002" x="1928" y="0" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m danceRight0003" x="2892" y="0" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m danceRight0004" x="3856" y="0" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m danceLeft0000" x="0" y="544" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m danceLeft0001" x="964" y="544" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m danceLeft0002" x="1928" y="544" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m danceLeft0003" x="2892" y="544" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m danceLeft0004" x="3856" y="544" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m right0000" x="0" y="1088" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m right0001" x="964" y="1088" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m right0002" x="1928" y="1088" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m right0003" x="2892" y="1088" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m right0004" x="3856" y="1088" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m right0005" x="0" y="1632" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m left0000" x="964" y="1632" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m left0001" x="1928" y="1632" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m left0002" x="2892" y="1632" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m left0003" x="3856" y="1632" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m left0004" x="0" y="2176" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m left0005" x="964" y="2176" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m up0000" x="1928" y="2176" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m up0001" x="2892" y="2176" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m up0002" x="3856" y="2176" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m up0003" x="0" y="2720" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m up0004" x="964" y="2720" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m up0005" x="1928" y="2720" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m down0000" x="2892" y="2720" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m down0001" x="3856" y="2720" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m down0002" x="0" y="3264" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m down0003" x="964" y="3264" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m down0004" x="1928" y="3264" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m down0005" x="2892" y="3264" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+<SubTexture name="9-m down0006" x="3856" y="3264" width="964" height="544" frameX="0" frameY="0" frameWidth="964" frameHeight="544" />
+</TextureAtlas>

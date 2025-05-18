@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="londonbf.png"><SubTexture name="londonbf stab0000" x="0" y="0" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="londonbf stab0000" x="604" y="0" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="londonbf stab0001" x="1208" y="0" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="londonbf stab0002" x="0" y="724" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="londonbf stab0003" x="604" y="724" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="londonbf stab0004" x="1208" y="724" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="londonbf stab0005" x="0" y="1448" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="londonbf stab0006" x="604" y="1448" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="londonbf idle0000" x="1208" y="1448" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+<SubTexture name="londonbf idle0001" x="0" y="2172" width="604" height="724" frameX="0" frameY="0" frameWidth="604" frameHeight="724" />
+</TextureAtlas>
